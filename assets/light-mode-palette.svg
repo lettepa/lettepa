@@ -1,0 +1,1602 @@
+<svg class="typst-doc" viewBox="0 0 1936 286" width="1936pt" height="286pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:h5="http://www.w3.org/1999/xhtml">
+    <g>
+        <g transform="translate(0 0)">
+            <path class="typst-shape" fill="oklch(62.090% 0.03100 -116.630deg)" d="M 0 0 L 0 286 L 1936 286 L 1936 0 Z "/>
+        </g>
+        <g transform="translate(0 0)">
+            <g class="typst-group">
+                <g>
+                    <g transform="translate(-0 -0)">
+                        <path class="typst-shape" fill="oklch(95.350% 0.02700 -129.090deg)" d="M 0 0 L 0 99 L 242 99 L 242 0 Z "/>
+                    </g>
+                    <g transform="translate(0 6)">
+                        <g class="typst-group">
+                            <g>
+                                <g transform="translate(12 8.76)">
+                                    <g class="typst-text" transform="scale(1, -1)">
+                                        <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="0" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                        <use xlink:href="#gF09A65D3271E8B2BB5DA4910170CD83D" x="7.4399999999999995" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                        <use xlink:href="#g3832F48C061306D5A143E5A5D4745C9E" x="14.879999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                    </g>
+                                </g>
+                                <g transform="translate(177.92 8.76)">
+                                    <g class="typst-text" transform="scale(1, -1)">
+                                        <use xlink:href="#g5A971C9C880F0C2BAFEB2DA513DF30B0" x="0" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                        <use xlink:href="#g9F4DFE647321930D67AF625EE741FCB1" x="7.4399999999999995" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                        <use xlink:href="#g8DB6A06BC921CE9083DD85DA088851D0" x="14.879999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                        <use xlink:href="#gCB4D3A342000D180C67DA82853E12ECB" x="22.32" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                        <use xlink:href="#g3AAF92A8AC89811432F028A7F556ECAD" x="29.759999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                        <use xlink:href="#g257B3232E3E0F22C4A2E84D7A9171C14" x="37.199999999999996" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                        <use xlink:href="#g3695E3CD5E9EB2CF0C11A1DCAC8A0B1A" x="44.63999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(101.16 29.159999999999997)">
+                        <g class="typst-group">
+                            <g>
+                                <g transform="translate(0 23.36)">
+                                    <g class="typst-text" transform="scale(1, -1)">
+                                        <use xlink:href="#g8C8BEFCFF8A08B277642E9E6ABB7A386" x="0" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                        <use xlink:href="#g54FC418604589FA61505B5F1444A575" x="19.84" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(24.280000000000058 72.91999999999999)">
+                        <g class="typst-group">
+                            <g>
+                                <g transform="translate(0 8.76)">
+                                    <g class="typst-text" transform="scale(1, -1)">
+                                        <use xlink:href="#g52337D72ECE54BBFC0B12EF45B72635" x="0" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                        <use xlink:href="#gCF3B37150B048F9FC9314AC11DFB6081" x="7.4399999999999995" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                        <use xlink:href="#g90C41F65C3DEA3038C8AE82B7C4F126D" x="14.879999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                        <use xlink:href="#g3C97F83C38CC1C7CF53BD929620947E" x="22.32" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                        <use xlink:href="#gCB4D3A342000D180C67DA82853E12ECB" x="29.759999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                        <use xlink:href="#g37ADD0C4C2F75C315E2A158D731AAE7C" x="37.199999999999996" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                        <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="44.63999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                        <use xlink:href="#g2E93E9B33A1AE6D093998E5D20F75298" x="52.07999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                        <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="59.51999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                        <use xlink:href="#g719E63993D52301AD8E1FD7D30CCA49" x="66.96" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                        <use xlink:href="#gECE02589C4280D6465E5A4A7B97C845B" x="74.39999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                        <use xlink:href="#g6251184F7479BA457456EE56AA82028E" x="81.83999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                        <use xlink:href="#g719E63993D52301AD8E1FD7D30CCA49" x="96.71999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                        <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="104.15999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                        <use xlink:href="#g719E63993D52301AD8E1FD7D30CCA49" x="111.59999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                        <use xlink:href="#g3832F48C061306D5A143E5A5D4745C9E" x="119.03999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                        <use xlink:href="#g6C2858FB971023FE75E17C6C00A024BF" x="126.47999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                        <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="141.35999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                        <use xlink:href="#gFFB5629B1E2E86144580655E51431970" x="148.79999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                        <use xlink:href="#gF09A65D3271E8B2BB5DA4910170CD83D" x="156.23999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                        <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="163.67999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                        <use xlink:href="#g4AA41D2268E95469B8B5A76A588F8B4E" x="171.11999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                        <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="178.55999999999997" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                        <use xlink:href="#g520249587FD7F89DBA89499C1536E3A7" x="185.99999999999997" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g transform="translate(242 0)">
+            <g class="typst-group">
+                <g>
+                    <g transform="translate(-0 -0)">
+                        <path class="typst-shape" fill="oklch(54.410% 0.20500 16.020deg)" d="M 0 0 L 0 99 L 242 99 L 242 0 Z "/>
+                    </g>
+                    <g transform="translate(0 6)">
+                        <g class="typst-group">
+                            <g>
+                                <g transform="translate(12 8.76)">
+                                    <g class="typst-text" transform="scale(1, -1)">
+                                        <use xlink:href="#g2E93E9B33A1AE6D093998E5D20F75298" x="0" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g719E63993D52301AD8E1FD7D30CCA49" x="7.4399999999999995" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g719E63993D52301AD8E1FD7D30CCA49" x="14.879999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                    </g>
+                                </g>
+                                <g transform="translate(177.92 8.76)">
+                                    <g class="typst-text" transform="scale(1, -1)">
+                                        <use xlink:href="#g85E11F004C0598774AC9BDBC77A025D8" x="0" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g94B36CBCAF64883835A02409E174D86B" x="7.4399999999999995" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g9F4DFE647321930D67AF625EE741FCB1" x="14.879999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g3695E3CD5E9EB2CF0C11A1DCAC8A0B1A" x="22.32" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g82389B94470D0617B6E4058CE2690690" x="29.759999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g5F38C61669EAEF249CFEA0DA9615FF4B" x="37.199999999999996" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g3AAF92A8AC89811432F028A7F556ECAD" x="44.63999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(91.24000000000001 29.159999999999997)">
+                        <g class="typst-group">
+                            <g>
+                                <g transform="translate(0 23.36)">
+                                    <g class="typst-text" transform="scale(1, -1)">
+                                        <use xlink:href="#gCFBC81A578DEBEEE32DA118FE6485F3E" x="0" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g985F3AB1947B2A3895790FE12D00EC35" x="19.84" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g9CCC4D3EB26A79ED678D3A137D87B61E" x="39.68" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(28.000000000000057 72.91999999999999)">
+                        <g class="typst-group">
+                            <g>
+                                <g transform="translate(0 8.76)">
+                                    <g class="typst-text" transform="scale(1, -1)">
+                                        <use xlink:href="#g52337D72ECE54BBFC0B12EF45B72635" x="0" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCF3B37150B048F9FC9314AC11DFB6081" x="7.4399999999999995" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g90C41F65C3DEA3038C8AE82B7C4F126D" x="14.879999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g3C97F83C38CC1C7CF53BD929620947E" x="22.32" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCB4D3A342000D180C67DA82853E12ECB" x="29.759999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g37ADD0C4C2F75C315E2A158D731AAE7C" x="37.199999999999996" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gFFB5629B1E2E86144580655E51431970" x="44.63999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g3832F48C061306D5A143E5A5D4745C9E" x="52.07999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="59.51999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g3832F48C061306D5A143E5A5D4745C9E" x="66.96" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g62ACB34828EDE8EC3F887B0D515A9FFB" x="74.39999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gF04ED8E4FA5DC85CDF697D0A412C8F1B" x="81.83999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g719E63993D52301AD8E1FD7D30CCA49" x="96.71999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="104.15999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="111.59999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g719E63993D52301AD8E1FD7D30CCA49" x="119.03999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gFFB5629B1E2E86144580655E51431970" x="126.47999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g2E93E9B33A1AE6D093998E5D20F75298" x="141.35999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g6C2858FB971023FE75E17C6C00A024BF" x="148.79999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="156.23999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g719E63993D52301AD8E1FD7D30CCA49" x="163.67999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="171.11999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g520249587FD7F89DBA89499C1536E3A7" x="178.55999999999997" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g transform="translate(484 0)">
+            <g class="typst-group">
+                <g>
+                    <g transform="translate(-0 -0)">
+                        <path class="typst-shape" fill="oklch(65.960% 0.12300 176.570deg)" d="M 0 0 L 0 99 L 242 99 L 242 0 Z "/>
+                    </g>
+                    <g transform="translate(0 6)">
+                        <g class="typst-group">
+                            <g>
+                                <g transform="translate(12 8.76)">
+                                    <g class="typst-text" transform="scale(1, -1)">
+                                        <use xlink:href="#gF09A65D3271E8B2BB5DA4910170CD83D" x="0" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g6C2858FB971023FE75E17C6C00A024BF" x="7.4399999999999995" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                    </g>
+                                </g>
+                                <g transform="translate(170.48000000000002 8.76)">
+                                    <g class="typst-text" transform="scale(1, -1)">
+                                        <use xlink:href="#gC117ECB856CE159882A1840C258B041B" x="0" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g52337D72ECE54BBFC0B12EF45B72635" x="7.4399999999999995" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g69297362405BE312CC6B6B995CDDAEFD" x="14.879999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g3AEF491F743BDB2217DD2D21F25061F4" x="22.32" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g9E18BE7D99CE5E6127B8E2245A1D9CE4" x="29.759999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g52337D72ECE54BBFC0B12EF45B72635" x="37.199999999999996" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g9F4DFE647321930D67AF625EE741FCB1" x="44.63999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g3AAF92A8AC89811432F028A7F556ECAD" x="52.07999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(71.4 29.159999999999997)">
+                        <g class="typst-group">
+                            <g>
+                                <g transform="translate(0 23.36)">
+                                    <g class="typst-text" transform="scale(1, -1)">
+                                        <use xlink:href="#g54FC418604589FA61505B5F1444A575" x="0" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCFBC81A578DEBEEE32DA118FE6485F3E" x="19.84" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g985F3AB1947B2A3895790FE12D00EC35" x="39.68" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g985F3AB1947B2A3895790FE12D00EC35" x="59.519999999999996" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g3BF459EF92AF8E8B96EDC819BB64E2DB" x="79.36" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(24.280000000000058 72.91999999999999)">
+                        <g class="typst-group">
+                            <g>
+                                <g transform="translate(0 8.76)">
+                                    <g class="typst-text" transform="scale(1, -1)">
+                                        <use xlink:href="#g52337D72ECE54BBFC0B12EF45B72635" x="0" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCF3B37150B048F9FC9314AC11DFB6081" x="7.4399999999999995" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g90C41F65C3DEA3038C8AE82B7C4F126D" x="14.879999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g3C97F83C38CC1C7CF53BD929620947E" x="22.32" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCB4D3A342000D180C67DA82853E12ECB" x="29.759999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g37ADD0C4C2F75C315E2A158D731AAE7C" x="37.199999999999996" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g6C2858FB971023FE75E17C6C00A024BF" x="44.63999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gFFB5629B1E2E86144580655E51431970" x="52.07999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="59.51999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gECE02589C4280D6465E5A4A7B97C845B" x="66.96" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g6C2858FB971023FE75E17C6C00A024BF" x="74.39999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g6251184F7479BA457456EE56AA82028E" x="81.83999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g719E63993D52301AD8E1FD7D30CCA49" x="96.71999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="104.15999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g2E93E9B33A1AE6D093998E5D20F75298" x="111.59999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="119.03999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gF09A65D3271E8B2BB5DA4910170CD83D" x="126.47999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g2E93E9B33A1AE6D093998E5D20F75298" x="141.35999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gC97B308B3B4D028BE3350BDF49174898" x="148.79999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g6C2858FB971023FE75E17C6C00A024BF" x="156.23999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="163.67999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gFFB5629B1E2E86144580655E51431970" x="171.11999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gC97B308B3B4D028BE3350BDF49174898" x="178.55999999999997" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g520249587FD7F89DBA89499C1536E3A7" x="185.99999999999997" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g transform="translate(726 0)">
+            <g class="typst-group">
+                <g>
+                    <g transform="translate(-0 -0)">
+                        <path class="typst-shape" fill="oklch(47.800% 0.15100 -106.150deg)" d="M 0 0 L 0 99 L 242 99 L 242 0 Z "/>
+                    </g>
+                    <g transform="translate(0 6)">
+                        <g class="typst-group">
+                            <g>
+                                <g transform="translate(12 8.76)">
+                                    <g class="typst-text" transform="scale(1, -1)">
+                                        <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="0" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gFFB5629B1E2E86144580655E51431970" x="7.4399999999999995" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                    </g>
+                                </g>
+                                <g transform="translate(200.24 8.76)">
+                                    <g class="typst-text" transform="scale(1, -1)">
+                                        <use xlink:href="#gE2DE0879D13CFCFF7190CCF7BC61D000" x="0" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g94B36CBCAF64883835A02409E174D86B" x="7.4399999999999995" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g9F4DFE647321930D67AF625EE741FCB1" x="14.879999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g3AAF92A8AC89811432F028A7F556ECAD" x="22.32" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(81.32 29.159999999999997)">
+                        <g class="typst-group">
+                            <g>
+                                <g transform="translate(0 23.36)">
+                                    <g class="typst-text" transform="scale(1, -1)">
+                                        <use xlink:href="#g8C8BEFCFF8A08B277642E9E6ABB7A386" x="0" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gE046207ABE90F0B886F429D80F64F88F" x="19.84" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g74A3545F1626F33FB9F768DE09C82720" x="39.68" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g985F3AB1947B2A3895790FE12D00EC35" x="59.519999999999996" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(28.000000000000057 72.91999999999999)">
+                        <g class="typst-group">
+                            <g>
+                                <g transform="translate(0 8.76)">
+                                    <g class="typst-text" transform="scale(1, -1)">
+                                        <use xlink:href="#g52337D72ECE54BBFC0B12EF45B72635" x="0" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCF3B37150B048F9FC9314AC11DFB6081" x="7.4399999999999995" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g90C41F65C3DEA3038C8AE82B7C4F126D" x="14.879999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g3C97F83C38CC1C7CF53BD929620947E" x="22.32" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCB4D3A342000D180C67DA82853E12ECB" x="29.759999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g37ADD0C4C2F75C315E2A158D731AAE7C" x="37.199999999999996" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g3832F48C061306D5A143E5A5D4745C9E" x="44.63999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gC97B308B3B4D028BE3350BDF49174898" x="52.07999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="59.51999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g4AA41D2268E95469B8B5A76A588F8B4E" x="66.96" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g6251184F7479BA457456EE56AA82028E" x="74.39999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g719E63993D52301AD8E1FD7D30CCA49" x="89.27999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="96.71999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g2E93E9B33A1AE6D093998E5D20F75298" x="104.15999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gFFB5629B1E2E86144580655E51431970" x="111.59999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g2E93E9B33A1AE6D093998E5D20F75298" x="119.03999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="133.92" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gFFB5629B1E2E86144580655E51431970" x="141.35999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gF09A65D3271E8B2BB5DA4910170CD83D" x="148.79999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="156.23999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g4AA41D2268E95469B8B5A76A588F8B4E" x="163.67999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gFFB5629B1E2E86144580655E51431970" x="171.11999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g520249587FD7F89DBA89499C1536E3A7" x="178.55999999999997" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g transform="translate(968 0)">
+            <g class="typst-group">
+                <g>
+                    <g transform="translate(-0 -0)">
+                        <path class="typst-shape" fill="oklch(61.570% 0.10100 -127.820deg)" d="M 0 0 L 0 99 L 242 99 L 242 0 Z "/>
+                    </g>
+                    <g transform="translate(0 6)">
+                        <g class="typst-group">
+                            <g>
+                                <g transform="translate(12 8.76)">
+                                    <g class="typst-text" transform="scale(1, -1)">
+                                        <use xlink:href="#g6C2858FB971023FE75E17C6C00A024BF" x="0" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gC97B308B3B4D028BE3350BDF49174898" x="7.4399999999999995" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                    </g>
+                                </g>
+                                <g transform="translate(177.92000000000002 8.76)">
+                                    <g class="typst-text" transform="scale(1, -1)">
+                                        <use xlink:href="#g8B9A8B590CA83D19A36842502F835DE4" x="0" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCB4D3A342000D180C67DA82853E12ECB" x="7.4399999999999995" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g3AAF92A8AC89811432F028A7F556ECAD" x="14.879999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g89FC85ACC022FF134F3F87E6F69CC4D8" x="22.32" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g94B36CBCAF64883835A02409E174D86B" x="29.759999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gC2195CCA34A1035A2F23438E2D97CC06" x="37.199999999999996" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g5F38C61669EAEF249CFEA0DA9615FF4B" x="44.63999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(81.32 29.159999999999997)">
+                        <g class="typst-group">
+                            <g>
+                                <g transform="translate(0 23.36)">
+                                    <g class="typst-text" transform="scale(1, -1)">
+                                        <use xlink:href="#g3E21C87D1A50726349670CDCEE39B0C4" x="0" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gF4FA03CD7E1CE2FA3375C019185220A" x="19.84" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCB0984C46A2539FCF889969F16F40BA" x="39.68" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g3BF459EF92AF8E8B96EDC819BB64E2DB" x="59.519999999999996" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(24.280000000000058 72.91999999999999)">
+                        <g class="typst-group">
+                            <g>
+                                <g transform="translate(0 8.76)">
+                                    <g class="typst-text" transform="scale(1, -1)">
+                                        <use xlink:href="#g52337D72ECE54BBFC0B12EF45B72635" x="0" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCF3B37150B048F9FC9314AC11DFB6081" x="7.4399999999999995" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g90C41F65C3DEA3038C8AE82B7C4F126D" x="14.879999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g3C97F83C38CC1C7CF53BD929620947E" x="22.32" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCB4D3A342000D180C67DA82853E12ECB" x="29.759999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g37ADD0C4C2F75C315E2A158D731AAE7C" x="37.199999999999996" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g6C2858FB971023FE75E17C6C00A024BF" x="44.63999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g2E93E9B33A1AE6D093998E5D20F75298" x="52.07999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="59.51999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gFFB5629B1E2E86144580655E51431970" x="66.96" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gF24A005A543D8CF66FD3851DE8321FA9" x="74.39999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gF04ED8E4FA5DC85CDF697D0A412C8F1B" x="81.83999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g719E63993D52301AD8E1FD7D30CCA49" x="96.71999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="104.15999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g2E93E9B33A1AE6D093998E5D20F75298" x="111.59999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g719E63993D52301AD8E1FD7D30CCA49" x="119.03999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g2E93E9B33A1AE6D093998E5D20F75298" x="126.47999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="141.35999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gF09A65D3271E8B2BB5DA4910170CD83D" x="148.79999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="156.23999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="163.67999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g2E93E9B33A1AE6D093998E5D20F75298" x="171.11999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g4AA41D2268E95469B8B5A76A588F8B4E" x="178.55999999999997" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g520249587FD7F89DBA89499C1536E3A7" x="185.99999999999997" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g transform="translate(1210 0)">
+            <g class="typst-group">
+                <g>
+                    <g transform="translate(-0 -0)">
+                        <path class="typst-shape" fill="oklch(62.120% 0.21000 -3.770deg)" d="M 0 0 L 0 99 L 242 99 L 242 0 Z "/>
+                    </g>
+                    <g transform="translate(0 6)">
+                        <g class="typst-group">
+                            <g>
+                                <g transform="translate(12 8.76)">
+                                    <g class="typst-text" transform="scale(1, -1)">
+                                        <use xlink:href="#g2E93E9B33A1AE6D093998E5D20F75298" x="0" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gECE02589C4280D6465E5A4A7B97C845B" x="7.4399999999999995" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g4AA41D2268E95469B8B5A76A588F8B4E" x="14.879999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                    </g>
+                                </g>
+                                <g transform="translate(170.48 8.76)">
+                                    <g class="typst-text" transform="scale(1, -1)">
+                                        <use xlink:href="#gF866E96CF9A4DFB8158CC1A2B7FF0B5A" x="0" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gC2195CCA34A1035A2F23438E2D97CC06" x="7.4399999999999995" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g94B36CBCAF64883835A02409E174D86B" x="14.879999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g257B3232E3E0F22C4A2E84D7A9171C14" x="22.32" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gC2195CCA34A1035A2F23438E2D97CC06" x="29.759999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g94B36CBCAF64883835A02409E174D86B" x="37.199999999999996" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gB145D81EAD8EA541E5E594A6DB6A1F77" x="44.63999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g3AAF92A8AC89811432F028A7F556ECAD" x="52.07999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(51.56 29.159999999999997)">
+                        <g class="typst-group">
+                            <g>
+                                <g transform="translate(0 23.36)">
+                                    <g class="typst-text" transform="scale(1, -1)">
+                                        <use xlink:href="#g663B66E6B75E1D8532D54DA1B91DBF5A" x="0" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCB0984C46A2539FCF889969F16F40BA" x="19.84" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g54FC418604589FA61505B5F1444A575" x="39.68" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g985F3AB1947B2A3895790FE12D00EC35" x="59.519999999999996" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g3BF459EF92AF8E8B96EDC819BB64E2DB" x="79.36" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g1E2667071D6537DEF7698806475DBC8B" x="99.2" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCB0984C46A2539FCF889969F16F40BA" x="119.04" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(28.000000000000057 72.91999999999999)">
+                        <g class="typst-group">
+                            <g>
+                                <g transform="translate(0 8.76)">
+                                    <g class="typst-text" transform="scale(1, -1)">
+                                        <use xlink:href="#g52337D72ECE54BBFC0B12EF45B72635" x="0" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCF3B37150B048F9FC9314AC11DFB6081" x="7.4399999999999995" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g90C41F65C3DEA3038C8AE82B7C4F126D" x="14.879999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g3C97F83C38CC1C7CF53BD929620947E" x="22.32" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCB4D3A342000D180C67DA82853E12ECB" x="29.759999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g37ADD0C4C2F75C315E2A158D731AAE7C" x="37.199999999999996" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g6C2858FB971023FE75E17C6C00A024BF" x="44.63999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="52.07999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="59.51999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g2E93E9B33A1AE6D093998E5D20F75298" x="66.96" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="74.39999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g6251184F7479BA457456EE56AA82028E" x="81.83999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g719E63993D52301AD8E1FD7D30CCA49" x="96.71999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="104.15999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="111.59999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g2E93E9B33A1AE6D093998E5D20F75298" x="119.03999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gF09A65D3271E8B2BB5DA4910170CD83D" x="133.92" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gFFB5629B1E2E86144580655E51431970" x="141.35999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g6C2858FB971023FE75E17C6C00A024BF" x="148.79999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="156.23999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="163.67999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gF09A65D3271E8B2BB5DA4910170CD83D" x="171.11999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g520249587FD7F89DBA89499C1536E3A7" x="178.55999999999997" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g transform="translate(1452 0)">
+            <g class="typst-group">
+                <g>
+                    <g transform="translate(-0 -0)">
+                        <path class="typst-shape" fill="oklch(65.290% 0.13400 60.340deg)" d="M 0 0 L 0 99 L 242 99 L 242 0 Z "/>
+                    </g>
+                    <g transform="translate(0 6)">
+                        <g class="typst-group">
+                            <g>
+                                <g transform="translate(12 8.76)">
+                                    <g class="typst-text" transform="scale(1, -1)">
+                                        <use xlink:href="#g2E93E9B33A1AE6D093998E5D20F75298" x="0" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gC97B308B3B4D028BE3350BDF49174898" x="7.4399999999999995" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="14.879999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                    </g>
+                                </g>
+                                <g transform="translate(185.35999999999999 8.76)">
+                                    <g class="typst-text" transform="scale(1, -1)">
+                                        <use xlink:href="#g85E11F004C0598774AC9BDBC77A025D8" x="0" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g52337D72ECE54BBFC0B12EF45B72635" x="7.4399999999999995" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCB4D3A342000D180C67DA82853E12ECB" x="14.879999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g5F38C61669EAEF249CFEA0DA9615FF4B" x="22.32" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCF3B37150B048F9FC9314AC11DFB6081" x="29.759999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g94B36CBCAF64883835A02409E174D86B" x="37.199999999999996" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(61.48 29.159999999999997)">
+                        <g class="typst-group">
+                            <g>
+                                <g transform="translate(0 23.36)">
+                                    <g class="typst-text" transform="scale(1, -1)">
+                                        <use xlink:href="#gF4FA03CD7E1CE2FA3375C019185220A" x="0" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g985F3AB1947B2A3895790FE12D00EC35" x="19.84" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gE046207ABE90F0B886F429D80F64F88F" x="39.68" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gE046207ABE90F0B886F429D80F64F88F" x="59.519999999999996" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gFCCC12D290EFD243573BF3C44E607535" x="79.36" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g3C92B584C9CE537D6704610A57E692BB" x="99.2" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(28.000000000000057 72.91999999999999)">
+                        <g class="typst-group">
+                            <g>
+                                <g transform="translate(0 8.76)">
+                                    <g class="typst-text" transform="scale(1, -1)">
+                                        <use xlink:href="#g52337D72ECE54BBFC0B12EF45B72635" x="0" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCF3B37150B048F9FC9314AC11DFB6081" x="7.4399999999999995" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g90C41F65C3DEA3038C8AE82B7C4F126D" x="14.879999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g3C97F83C38CC1C7CF53BD929620947E" x="22.32" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCB4D3A342000D180C67DA82853E12ECB" x="29.759999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g37ADD0C4C2F75C315E2A158D731AAE7C" x="37.199999999999996" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g6C2858FB971023FE75E17C6C00A024BF" x="44.63999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gFFB5629B1E2E86144580655E51431970" x="52.07999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="59.51999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="66.96" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gECE02589C4280D6465E5A4A7B97C845B" x="74.39999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g6251184F7479BA457456EE56AA82028E" x="81.83999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g719E63993D52301AD8E1FD7D30CCA49" x="96.71999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="104.15999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g2E93E9B33A1AE6D093998E5D20F75298" x="111.59999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gF09A65D3271E8B2BB5DA4910170CD83D" x="119.03999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g3832F48C061306D5A143E5A5D4745C9E" x="126.47999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g6C2858FB971023FE75E17C6C00A024BF" x="141.35999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g719E63993D52301AD8E1FD7D30CCA49" x="148.79999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="156.23999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gF09A65D3271E8B2BB5DA4910170CD83D" x="163.67999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g3832F48C061306D5A143E5A5D4745C9E" x="171.11999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g520249587FD7F89DBA89499C1536E3A7" x="178.55999999999997" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g transform="translate(1694 0)">
+            <g class="typst-group">
+                <g>
+                    <g transform="translate(-0 -0)">
+                        <path class="typst-shape" fill="oklch(29.940% 0.04800 -108.170deg)" d="M 0 0 L 0 99 L 242 99 L 242 0 Z "/>
+                    </g>
+                    <g transform="translate(0 6)">
+                        <g class="typst-group">
+                            <g>
+                                <g transform="translate(12 8.76)">
+                                    <g class="typst-text" transform="scale(1, -1)">
+                                        <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="0" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gFFB5629B1E2E86144580655E51431970" x="7.4399999999999995" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g3832F48C061306D5A143E5A5D4745C9E" x="14.879999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                    </g>
+                                </g>
+                                <g transform="translate(177.92 8.76)">
+                                    <g class="typst-text" transform="scale(1, -1)">
+                                        <use xlink:href="#g5A971C9C880F0C2BAFEB2DA513DF30B0" x="0" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g9F4DFE647321930D67AF625EE741FCB1" x="7.4399999999999995" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g489385974623B1C4C0263DB8EAB253F7" x="14.879999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g90C41F65C3DEA3038C8AE82B7C4F126D" x="22.32" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g5F38C61669EAEF249CFEA0DA9615FF4B" x="29.759999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g3C97F83C38CC1C7CF53BD929620947E" x="37.199999999999996" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCF3B37150B048F9FC9314AC11DFB6081" x="44.63999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(101.16 29.159999999999997)">
+                        <g class="typst-group">
+                            <g>
+                                <g transform="translate(0 23.36)">
+                                    <g class="typst-text" transform="scale(1, -1)">
+                                        <use xlink:href="#g7DB1277550BAB30DF553409D3683E021" x="0" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g54FC418604589FA61505B5F1444A575" x="19.84" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(35.44000000000004 72.91999999999999)">
+                        <g class="typst-group">
+                            <g>
+                                <g transform="translate(0 8.76)">
+                                    <g class="typst-text" transform="scale(1, -1)">
+                                        <use xlink:href="#g52337D72ECE54BBFC0B12EF45B72635" x="0" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCF3B37150B048F9FC9314AC11DFB6081" x="7.4399999999999995" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g90C41F65C3DEA3038C8AE82B7C4F126D" x="14.879999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g3C97F83C38CC1C7CF53BD929620947E" x="22.32" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCB4D3A342000D180C67DA82853E12ECB" x="29.759999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g37ADD0C4C2F75C315E2A158D731AAE7C" x="37.199999999999996" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gECE02589C4280D6465E5A4A7B97C845B" x="44.63999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="52.07999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="59.51999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g6C2858FB971023FE75E17C6C00A024BF" x="66.96" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g62ACB34828EDE8EC3F887B0D515A9FFB" x="74.39999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gF04ED8E4FA5DC85CDF697D0A412C8F1B" x="81.83999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g719E63993D52301AD8E1FD7D30CCA49" x="96.71999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="104.15999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g719E63993D52301AD8E1FD7D30CCA49" x="111.59999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="119.03999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gC97B308B3B4D028BE3350BDF49174898" x="126.47999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="141.35999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gF09A65D3271E8B2BB5DA4910170CD83D" x="148.79999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#gFFB5629B1E2E86144580655E51431970" x="156.23999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                        <use xlink:href="#g520249587FD7F89DBA89499C1536E3A7" x="163.67999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g transform="translate(0 99)">
+            <g class="typst-group">
+                <g>
+                    <g transform="translate(0 0)">
+                        <g class="typst-group">
+                            <g>
+                                <g transform="translate(-0 -0)">
+                                    <path class="typst-shape" fill="oklch(92.610% 0.02700 -125.000deg)" d="M 0 0 L 0 99 L 242 99 L 242 0 Z "/>
+                                </g>
+                                <g transform="translate(0 6)">
+                                    <g class="typst-group">
+                                        <g>
+                                            <g transform="translate(12 8.76)">
+                                                <g class="typst-text" transform="scale(1, -1)">
+                                                    <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="0" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gF09A65D3271E8B2BB5DA4910170CD83D" x="7.4399999999999995" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g6C2858FB971023FE75E17C6C00A024BF" x="14.879999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                </g>
+                                            </g>
+                                            <g transform="translate(192.79999999999998 8.76)">
+                                                <g class="typst-text" transform="scale(1, -1)">
+                                                    <use xlink:href="#g8DB6A06BC921CE9083DD85DA088851D0" x="0" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCB4D3A342000D180C67DA82853E12ECB" x="7.4399999999999995" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g3AAF92A8AC89811432F028A7F556ECAD" x="14.879999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g257B3232E3E0F22C4A2E84D7A9171C14" x="22.32" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g3695E3CD5E9EB2CF0C11A1DCAC8A0B1A" x="29.759999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g transform="translate(91.24000000000001 29.159999999999997)">
+                                    <g class="typst-group">
+                                        <g>
+                                            <g transform="translate(0 23.36)">
+                                                <g class="typst-text" transform="scale(1, -1)">
+                                                    <use xlink:href="#g8C8BEFCFF8A08B277642E9E6ABB7A386" x="0" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g54FC418604589FA61505B5F1444A575" x="19.84" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g2198EDA9CC91EA7E6BF4C4697C680A86" x="39.68" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g transform="translate(24.280000000000058 72.91999999999999)">
+                                    <g class="typst-group">
+                                        <g>
+                                            <g transform="translate(0 8.76)">
+                                                <g class="typst-text" transform="scale(1, -1)">
+                                                    <use xlink:href="#g52337D72ECE54BBFC0B12EF45B72635" x="0" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCF3B37150B048F9FC9314AC11DFB6081" x="7.4399999999999995" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g90C41F65C3DEA3038C8AE82B7C4F126D" x="14.879999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g3C97F83C38CC1C7CF53BD929620947E" x="22.32" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCB4D3A342000D180C67DA82853E12ECB" x="29.759999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g37ADD0C4C2F75C315E2A158D731AAE7C" x="37.199999999999996" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="44.63999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gECE02589C4280D6465E5A4A7B97C845B" x="52.07999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="59.51999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gECE02589C4280D6465E5A4A7B97C845B" x="66.96" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g3832F48C061306D5A143E5A5D4745C9E" x="74.39999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g6251184F7479BA457456EE56AA82028E" x="81.83999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g719E63993D52301AD8E1FD7D30CCA49" x="96.71999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="104.15999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g719E63993D52301AD8E1FD7D30CCA49" x="111.59999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g3832F48C061306D5A143E5A5D4745C9E" x="119.03999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g4AA41D2268E95469B8B5A76A588F8B4E" x="126.47999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="141.35999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gFFB5629B1E2E86144580655E51431970" x="148.79999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g2E93E9B33A1AE6D093998E5D20F75298" x="156.23999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="163.67999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g4AA41D2268E95469B8B5A76A588F8B4E" x="171.11999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gF09A65D3271E8B2BB5DA4910170CD83D" x="178.55999999999997" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g520249587FD7F89DBA89499C1536E3A7" x="185.99999999999997" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(242 0)">
+                        <g class="typst-group">
+                            <g>
+                                <g transform="translate(-0 -0)">
+                                    <path class="typst-shape" fill="oklch(66.260% 0.18100 19.180deg)" d="M 0 0 L 0 99 L 242 99 L 242 0 Z "/>
+                                </g>
+                                <g transform="translate(0 6)">
+                                    <g class="typst-group">
+                                        <g>
+                                            <g transform="translate(12 8.76)">
+                                                <g class="typst-text" transform="scale(1, -1)">
+                                                    <use xlink:href="#g2E93E9B33A1AE6D093998E5D20F75298" x="0" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g6C2858FB971023FE75E17C6C00A024BF" x="7.4399999999999995" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gC97B308B3B4D028BE3350BDF49174898" x="14.879999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                </g>
+                                            </g>
+                                            <g transform="translate(170.48 8.76)">
+                                                <g class="typst-text" transform="scale(1, -1)">
+                                                    <use xlink:href="#g844F4776ECCF7EE211B9194B95E29D05" x="0" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g5F38C61669EAEF249CFEA0DA9615FF4B" x="7.4399999999999995" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCF3B37150B048F9FC9314AC11DFB6081" x="14.879999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g5F38C61669EAEF249CFEA0DA9615FF4B" x="22.32" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g5A971C9C880F0C2BAFEB2DA513DF30B0" x="29.759999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g3695E3CD5E9EB2CF0C11A1DCAC8A0B1A" x="37.199999999999996" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g82389B94470D0617B6E4058CE2690690" x="44.63999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g3AAF92A8AC89811432F028A7F556ECAD" x="52.07999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g transform="translate(81.32 29.159999999999997)">
+                                    <g class="typst-group">
+                                        <g>
+                                            <g transform="translate(0 23.36)">
+                                                <g class="typst-text" transform="scale(1, -1)">
+                                                    <use xlink:href="#gCFBC81A578DEBEEE32DA118FE6485F3E" x="0" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g985F3AB1947B2A3895790FE12D00EC35" x="19.84" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g9CCC4D3EB26A79ED678D3A137D87B61E" x="39.68" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g2198EDA9CC91EA7E6BF4C4697C680A86" x="59.519999999999996" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g transform="translate(28.000000000000057 72.91999999999999)">
+                                    <g class="typst-group">
+                                        <g>
+                                            <g transform="translate(0 8.76)">
+                                                <g class="typst-text" transform="scale(1, -1)">
+                                                    <use xlink:href="#g52337D72ECE54BBFC0B12EF45B72635" x="0" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCF3B37150B048F9FC9314AC11DFB6081" x="7.4399999999999995" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g90C41F65C3DEA3038C8AE82B7C4F126D" x="14.879999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g3C97F83C38CC1C7CF53BD929620947E" x="22.32" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCB4D3A342000D180C67DA82853E12ECB" x="29.759999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g37ADD0C4C2F75C315E2A158D731AAE7C" x="37.199999999999996" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g6C2858FB971023FE75E17C6C00A024BF" x="44.63999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g6C2858FB971023FE75E17C6C00A024BF" x="52.07999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="59.51999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="66.96" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g6C2858FB971023FE75E17C6C00A024BF" x="74.39999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g6251184F7479BA457456EE56AA82028E" x="81.83999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g719E63993D52301AD8E1FD7D30CCA49" x="96.71999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="104.15999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g2E93E9B33A1AE6D093998E5D20F75298" x="111.59999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g4AA41D2268E95469B8B5A76A588F8B4E" x="119.03999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g2E93E9B33A1AE6D093998E5D20F75298" x="126.47999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g2E93E9B33A1AE6D093998E5D20F75298" x="141.35999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gECE02589C4280D6465E5A4A7B97C845B" x="148.79999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="156.23999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g2E93E9B33A1AE6D093998E5D20F75298" x="163.67999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g4AA41D2268E95469B8B5A76A588F8B4E" x="171.11999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g520249587FD7F89DBA89499C1536E3A7" x="178.55999999999997" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(484 0)">
+                        <g class="typst-group">
+                            <g>
+                                <g transform="translate(-0 -0)">
+                                    <path class="typst-shape" fill="oklch(78.390% 0.12200 -179.680deg)" d="M 0 0 L 0 99 L 242 99 L 242 0 Z "/>
+                                </g>
+                                <g transform="translate(0 6)">
+                                    <g class="typst-group">
+                                        <g>
+                                            <g transform="translate(12 8.76)">
+                                                <g class="typst-text" transform="scale(1, -1)">
+                                                    <use xlink:href="#gC97B308B3B4D028BE3350BDF49174898" x="0" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gECE02589C4280D6465E5A4A7B97C845B" x="7.4399999999999995" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                </g>
+                                            </g>
+                                            <g transform="translate(155.6 8.76)">
+                                                <g class="typst-text" transform="scale(1, -1)">
+                                                    <use xlink:href="#g5A971C9C880F0C2BAFEB2DA513DF30B0" x="0" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g9F4DFE647321930D67AF625EE741FCB1" x="7.4399999999999995" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gC117ECB856CE159882A1840C258B041B" x="14.879999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g52337D72ECE54BBFC0B12EF45B72635" x="22.32" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g69297362405BE312CC6B6B995CDDAEFD" x="29.759999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g3AEF491F743BDB2217DD2D21F25061F4" x="37.199999999999996" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g9E18BE7D99CE5E6127B8E2245A1D9CE4" x="44.63999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g52337D72ECE54BBFC0B12EF45B72635" x="52.07999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g9F4DFE647321930D67AF625EE741FCB1" x="59.51999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g3AAF92A8AC89811432F028A7F556ECAD" x="66.96" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g transform="translate(61.48 29.159999999999997)">
+                                    <g class="typst-group">
+                                        <g>
+                                            <g transform="translate(0 23.36)">
+                                                <g class="typst-text" transform="scale(1, -1)">
+                                                    <use xlink:href="#g54FC418604589FA61505B5F1444A575" x="0" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCFBC81A578DEBEEE32DA118FE6485F3E" x="19.84" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g985F3AB1947B2A3895790FE12D00EC35" x="39.68" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g985F3AB1947B2A3895790FE12D00EC35" x="59.519999999999996" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g3BF459EF92AF8E8B96EDC819BB64E2DB" x="79.36" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g2198EDA9CC91EA7E6BF4C4697C680A86" x="99.2" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g transform="translate(24.280000000000058 72.91999999999999)">
+                                    <g class="typst-group">
+                                        <g>
+                                            <g transform="translate(0 8.76)">
+                                                <g class="typst-text" transform="scale(1, -1)">
+                                                    <use xlink:href="#g52337D72ECE54BBFC0B12EF45B72635" x="0" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCF3B37150B048F9FC9314AC11DFB6081" x="7.4399999999999995" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g90C41F65C3DEA3038C8AE82B7C4F126D" x="14.879999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g3C97F83C38CC1C7CF53BD929620947E" x="22.32" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCB4D3A342000D180C67DA82853E12ECB" x="29.759999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g37ADD0C4C2F75C315E2A158D731AAE7C" x="37.199999999999996" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gC97B308B3B4D028BE3350BDF49174898" x="44.63999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g4AA41D2268E95469B8B5A76A588F8B4E" x="52.07999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="59.51999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gF09A65D3271E8B2BB5DA4910170CD83D" x="66.96" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gECE02589C4280D6465E5A4A7B97C845B" x="74.39999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g6251184F7479BA457456EE56AA82028E" x="81.83999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g719E63993D52301AD8E1FD7D30CCA49" x="96.71999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="104.15999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g2E93E9B33A1AE6D093998E5D20F75298" x="111.59999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="119.03999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="126.47999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g2E93E9B33A1AE6D093998E5D20F75298" x="141.35999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g4AA41D2268E95469B8B5A76A588F8B4E" x="148.79999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g719E63993D52301AD8E1FD7D30CCA49" x="156.23999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="163.67999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gF09A65D3271E8B2BB5DA4910170CD83D" x="171.11999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="178.55999999999997" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g520249587FD7F89DBA89499C1536E3A7" x="185.99999999999997" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(726 0)">
+                        <g class="typst-group">
+                            <g>
+                                <g transform="translate(-0 -0)">
+                                    <path class="typst-shape" fill="oklch(73.520% 0.14900 -120.170deg)" d="M 0 0 L 0 99 L 242 99 L 242 0 Z "/>
+                                </g>
+                                <g transform="translate(0 6)">
+                                    <g class="typst-group">
+                                        <g>
+                                            <g transform="translate(12 8.76)">
+                                                <g class="typst-text" transform="scale(1, -1)">
+                                                    <use xlink:href="#gF09A65D3271E8B2BB5DA4910170CD83D" x="0" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gECE02589C4280D6465E5A4A7B97C845B" x="7.4399999999999995" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                </g>
+                                            </g>
+                                            <g transform="translate(185.36 8.76)">
+                                                <g class="typst-text" transform="scale(1, -1)">
+                                                    <use xlink:href="#g5A971C9C880F0C2BAFEB2DA513DF30B0" x="0" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g9F4DFE647321930D67AF625EE741FCB1" x="7.4399999999999995" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gE2DE0879D13CFCFF7190CCF7BC61D000" x="14.879999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g94B36CBCAF64883835A02409E174D86B" x="22.32" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g9F4DFE647321930D67AF625EE741FCB1" x="29.759999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g3AAF92A8AC89811432F028A7F556ECAD" x="37.199999999999996" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g transform="translate(71.4 29.159999999999997)">
+                                    <g class="typst-group">
+                                        <g>
+                                            <g transform="translate(0 23.36)">
+                                                <g class="typst-text" transform="scale(1, -1)">
+                                                    <use xlink:href="#g8C8BEFCFF8A08B277642E9E6ABB7A386" x="0" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gE046207ABE90F0B886F429D80F64F88F" x="19.84" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g74A3545F1626F33FB9F768DE09C82720" x="39.68" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g985F3AB1947B2A3895790FE12D00EC35" x="59.519999999999996" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g2198EDA9CC91EA7E6BF4C4697C680A86" x="79.36" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g transform="translate(24.280000000000058 72.91999999999999)">
+                                    <g class="typst-group">
+                                        <g>
+                                            <g transform="translate(0 8.76)">
+                                                <g class="typst-text" transform="scale(1, -1)">
+                                                    <use xlink:href="#g52337D72ECE54BBFC0B12EF45B72635" x="0" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCF3B37150B048F9FC9314AC11DFB6081" x="7.4399999999999995" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g90C41F65C3DEA3038C8AE82B7C4F126D" x="14.879999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g3C97F83C38CC1C7CF53BD929620947E" x="22.32" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCB4D3A342000D180C67DA82853E12ECB" x="29.759999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g37ADD0C4C2F75C315E2A158D731AAE7C" x="37.199999999999996" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gC97B308B3B4D028BE3350BDF49174898" x="44.63999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gF09A65D3271E8B2BB5DA4910170CD83D" x="52.07999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="59.51999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gFFB5629B1E2E86144580655E51431970" x="66.96" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="74.39999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g6251184F7479BA457456EE56AA82028E" x="81.83999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g719E63993D52301AD8E1FD7D30CCA49" x="96.71999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="104.15999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g2E93E9B33A1AE6D093998E5D20F75298" x="111.59999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g3832F48C061306D5A143E5A5D4745C9E" x="119.03999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gECE02589C4280D6465E5A4A7B97C845B" x="126.47999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="141.35999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gF09A65D3271E8B2BB5DA4910170CD83D" x="148.79999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gECE02589C4280D6465E5A4A7B97C845B" x="156.23999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="163.67999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g4AA41D2268E95469B8B5A76A588F8B4E" x="171.11999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gF09A65D3271E8B2BB5DA4910170CD83D" x="178.55999999999997" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g520249587FD7F89DBA89499C1536E3A7" x="185.99999999999997" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(968 0)">
+                        <g class="typst-group">
+                            <g>
+                                <g transform="translate(-0 -0)">
+                                    <path class="typst-shape" fill="oklch(83.600% 0.10100 -153.330deg)" d="M 0 0 L 0 99 L 242 99 L 242 0 Z "/>
+                                </g>
+                                <g transform="translate(0 6)">
+                                    <g class="typst-group">
+                                        <g>
+                                            <g transform="translate(12 8.76)">
+                                                <g class="typst-text" transform="scale(1, -1)">
+                                                    <use xlink:href="#g3832F48C061306D5A143E5A5D4745C9E" x="0" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gFFB5629B1E2E86144580655E51431970" x="7.4399999999999995" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                </g>
+                                            </g>
+                                            <g transform="translate(163.04 8.76)">
+                                                <g class="typst-text" transform="scale(1, -1)">
+                                                    <use xlink:href="#g5A971C9C880F0C2BAFEB2DA513DF30B0" x="0" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g9F4DFE647321930D67AF625EE741FCB1" x="7.4399999999999995" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g8B9A8B590CA83D19A36842502F835DE4" x="14.879999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCB4D3A342000D180C67DA82853E12ECB" x="22.32" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g3AAF92A8AC89811432F028A7F556ECAD" x="29.759999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g89FC85ACC022FF134F3F87E6F69CC4D8" x="37.199999999999996" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g94B36CBCAF64883835A02409E174D86B" x="44.63999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gC2195CCA34A1035A2F23438E2D97CC06" x="52.07999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g5F38C61669EAEF249CFEA0DA9615FF4B" x="59.51999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g transform="translate(71.4 29.159999999999997)">
+                                    <g class="typst-group">
+                                        <g>
+                                            <g transform="translate(0 23.36)">
+                                                <g class="typst-text" transform="scale(1, -1)">
+                                                    <use xlink:href="#g3E21C87D1A50726349670CDCEE39B0C4" x="0" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gF4FA03CD7E1CE2FA3375C019185220A" x="19.84" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCB0984C46A2539FCF889969F16F40BA" x="39.68" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g3BF459EF92AF8E8B96EDC819BB64E2DB" x="59.519999999999996" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g2198EDA9CC91EA7E6BF4C4697C680A86" x="79.36" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g transform="translate(28.000000000000057 72.91999999999999)">
+                                    <g class="typst-group">
+                                        <g>
+                                            <g transform="translate(0 8.76)">
+                                                <g class="typst-text" transform="scale(1, -1)">
+                                                    <use xlink:href="#g52337D72ECE54BBFC0B12EF45B72635" x="0" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCF3B37150B048F9FC9314AC11DFB6081" x="7.4399999999999995" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g90C41F65C3DEA3038C8AE82B7C4F126D" x="14.879999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g3C97F83C38CC1C7CF53BD929620947E" x="22.32" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCB4D3A342000D180C67DA82853E12ECB" x="29.759999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g37ADD0C4C2F75C315E2A158D731AAE7C" x="37.199999999999996" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g4AA41D2268E95469B8B5A76A588F8B4E" x="44.63999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gF09A65D3271E8B2BB5DA4910170CD83D" x="52.07999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="59.51999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g6C2858FB971023FE75E17C6C00A024BF" x="66.96" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g6251184F7479BA457456EE56AA82028E" x="74.39999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g719E63993D52301AD8E1FD7D30CCA49" x="89.27999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="96.71999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g2E93E9B33A1AE6D093998E5D20F75298" x="104.15999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g719E63993D52301AD8E1FD7D30CCA49" x="111.59999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g2E93E9B33A1AE6D093998E5D20F75298" x="119.03999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="133.92" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g719E63993D52301AD8E1FD7D30CCA49" x="141.35999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g6C2858FB971023FE75E17C6C00A024BF" x="148.79999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="156.23999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g6C2858FB971023FE75E17C6C00A024BF" x="163.67999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gC97B308B3B4D028BE3350BDF49174898" x="171.11999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g520249587FD7F89DBA89499C1536E3A7" x="178.55999999999997" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(1210 0)">
+                        <g class="typst-group">
+                            <g>
+                                <g transform="translate(-0 -0)">
+                                    <path class="typst-shape" fill="oklch(72.450% 0.20000 -10.260deg)" d="M 0 0 L 0 99 L 242 99 L 242 0 Z "/>
+                                </g>
+                                <g transform="translate(0 6)">
+                                    <g class="typst-group">
+                                        <g>
+                                            <g transform="translate(12 8.76)">
+                                                <g class="typst-text" transform="scale(1, -1)">
+                                                    <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="0" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g719E63993D52301AD8E1FD7D30CCA49" x="7.4399999999999995" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gFFB5629B1E2E86144580655E51431970" x="14.879999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                </g>
+                                            </g>
+                                            <g transform="translate(155.6 8.76)">
+                                                <g class="typst-text" transform="scale(1, -1)">
+                                                    <use xlink:href="#g5A971C9C880F0C2BAFEB2DA513DF30B0" x="0" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g9F4DFE647321930D67AF625EE741FCB1" x="7.4399999999999995" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gF866E96CF9A4DFB8158CC1A2B7FF0B5A" x="14.879999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gC2195CCA34A1035A2F23438E2D97CC06" x="22.32" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g94B36CBCAF64883835A02409E174D86B" x="29.759999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g257B3232E3E0F22C4A2E84D7A9171C14" x="37.199999999999996" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gC2195CCA34A1035A2F23438E2D97CC06" x="44.63999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g94B36CBCAF64883835A02409E174D86B" x="52.07999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gB145D81EAD8EA541E5E594A6DB6A1F77" x="59.51999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g3AAF92A8AC89811432F028A7F556ECAD" x="66.96" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g transform="translate(41.64 29.159999999999997)">
+                                    <g class="typst-group">
+                                        <g>
+                                            <g transform="translate(0 23.36)">
+                                                <g class="typst-text" transform="scale(1, -1)">
+                                                    <use xlink:href="#g663B66E6B75E1D8532D54DA1B91DBF5A" x="0" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCB0984C46A2539FCF889969F16F40BA" x="19.84" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g54FC418604589FA61505B5F1444A575" x="39.68" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g985F3AB1947B2A3895790FE12D00EC35" x="59.519999999999996" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g3BF459EF92AF8E8B96EDC819BB64E2DB" x="79.36" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g1E2667071D6537DEF7698806475DBC8B" x="99.2" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCB0984C46A2539FCF889969F16F40BA" x="119.04" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g2198EDA9CC91EA7E6BF4C4697C680A86" x="138.88" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g transform="translate(31.720000000000056 72.91999999999999)">
+                                    <g class="typst-group">
+                                        <g>
+                                            <g transform="translate(0 8.76)">
+                                                <g class="typst-text" transform="scale(1, -1)">
+                                                    <use xlink:href="#g52337D72ECE54BBFC0B12EF45B72635" x="0" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCF3B37150B048F9FC9314AC11DFB6081" x="7.4399999999999995" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g90C41F65C3DEA3038C8AE82B7C4F126D" x="14.879999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g3C97F83C38CC1C7CF53BD929620947E" x="22.32" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCB4D3A342000D180C67DA82853E12ECB" x="29.759999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g37ADD0C4C2F75C315E2A158D731AAE7C" x="37.199999999999996" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gC97B308B3B4D028BE3350BDF49174898" x="44.63999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="52.07999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="59.51999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g3832F48C061306D5A143E5A5D4745C9E" x="66.96" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gFFB5629B1E2E86144580655E51431970" x="74.39999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g6251184F7479BA457456EE56AA82028E" x="81.83999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g719E63993D52301AD8E1FD7D30CCA49" x="96.71999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="104.15999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="111.59999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gF09A65D3271E8B2BB5DA4910170CD83D" x="126.47999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g3832F48C061306D5A143E5A5D4745C9E" x="133.92" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gECE02589C4280D6465E5A4A7B97C845B" x="141.35999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="148.79999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gC97B308B3B4D028BE3350BDF49174898" x="156.23999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g3832F48C061306D5A143E5A5D4745C9E" x="163.67999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g520249587FD7F89DBA89499C1536E3A7" x="171.11999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(1452 0)">
+                        <g class="typst-group">
+                            <g>
+                                <g transform="translate(-0 -0)">
+                                    <path class="typst-shape" fill="oklch(83.660% 0.14900 82.280deg)" d="M 0 0 L 0 99 L 242 99 L 242 0 Z "/>
+                                </g>
+                                <g transform="translate(0 6)">
+                                    <g class="typst-group">
+                                        <g>
+                                            <g transform="translate(12 8.76)">
+                                                <g class="typst-text" transform="scale(1, -1)">
+                                                    <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="0" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="7.4399999999999995" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g2E93E9B33A1AE6D093998E5D20F75298" x="14.879999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                </g>
+                                            </g>
+                                            <g transform="translate(185.35999999999999 8.76)">
+                                                <g class="typst-text" transform="scale(1, -1)">
+                                                    <use xlink:href="#gF866E96CF9A4DFB8158CC1A2B7FF0B5A" x="0" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g5F38C61669EAEF249CFEA0DA9615FF4B" x="7.4399999999999995" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g96A0F72D3E59D3BDC1B22C35B4F661CA" x="14.879999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g5F38C61669EAEF249CFEA0DA9615FF4B" x="22.32" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCF3B37150B048F9FC9314AC11DFB6081" x="29.759999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g52337D72ECE54BBFC0B12EF45B72635" x="37.199999999999996" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g transform="translate(51.56 29.159999999999997)">
+                                    <g class="typst-group">
+                                        <g>
+                                            <g transform="translate(0 23.36)">
+                                                <g class="typst-text" transform="scale(1, -1)">
+                                                    <use xlink:href="#gF4FA03CD7E1CE2FA3375C019185220A" x="0" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g985F3AB1947B2A3895790FE12D00EC35" x="19.84" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gE046207ABE90F0B886F429D80F64F88F" x="39.68" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gE046207ABE90F0B886F429D80F64F88F" x="59.519999999999996" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gFCCC12D290EFD243573BF3C44E607535" x="79.36" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g3C92B584C9CE537D6704610A57E692BB" x="99.2" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g2198EDA9CC91EA7E6BF4C4697C680A86" x="119.04" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g transform="translate(28.000000000000057 72.91999999999999)">
+                                    <g class="typst-group">
+                                        <g>
+                                            <g transform="translate(0 8.76)">
+                                                <g class="typst-text" transform="scale(1, -1)">
+                                                    <use xlink:href="#g52337D72ECE54BBFC0B12EF45B72635" x="0" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCF3B37150B048F9FC9314AC11DFB6081" x="7.4399999999999995" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g90C41F65C3DEA3038C8AE82B7C4F126D" x="14.879999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g3C97F83C38CC1C7CF53BD929620947E" x="22.32" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCB4D3A342000D180C67DA82853E12ECB" x="29.759999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g37ADD0C4C2F75C315E2A158D731AAE7C" x="37.199999999999996" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g4AA41D2268E95469B8B5A76A588F8B4E" x="44.63999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gF09A65D3271E8B2BB5DA4910170CD83D" x="52.07999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="59.51999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g6C2858FB971023FE75E17C6C00A024BF" x="66.96" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g6C2858FB971023FE75E17C6C00A024BF" x="74.39999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g6251184F7479BA457456EE56AA82028E" x="81.83999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g719E63993D52301AD8E1FD7D30CCA49" x="96.71999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="104.15999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g2E93E9B33A1AE6D093998E5D20F75298" x="111.59999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g3832F48C061306D5A143E5A5D4745C9E" x="119.03999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gECE02589C4280D6465E5A4A7B97C845B" x="126.47999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g4AA41D2268E95469B8B5A76A588F8B4E" x="141.35999999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="148.79999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="156.23999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="163.67999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g4AA41D2268E95469B8B5A76A588F8B4E" x="171.11999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                    <use xlink:href="#g520249587FD7F89DBA89499C1536E3A7" x="178.55999999999997" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(1694 0)">
+                        <g class="typst-group">
+                            <g>
+                                <g transform="translate(-0 -0)">
+                                    <path class="typst-shape" fill="oklch(53.960% 0.04100 -111.400deg)" d="M 0 0 L 0 99 L 242 99 L 242 0 Z "/>
+                                </g>
+                                <g transform="translate(0 6)">
+                                    <g class="typst-group">
+                                        <g>
+                                            <g transform="translate(12 8.76)">
+                                                <g class="typst-text" transform="scale(1, -1)">
+                                                    <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="0" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                    <use xlink:href="#g3832F48C061306D5A143E5A5D4745C9E" x="7.4399999999999995" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                    <use xlink:href="#gC97B308B3B4D028BE3350BDF49174898" x="14.879999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                </g>
+                                            </g>
+                                            <g transform="translate(177.92 8.76)">
+                                                <g class="typst-text" transform="scale(1, -1)">
+                                                    <use xlink:href="#g9E18BE7D99CE5E6127B8E2245A1D9CE4" x="0" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                    <use xlink:href="#g525FC3D89C10E23229BAFB7848F5A706" x="7.4399999999999995" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                    <use xlink:href="#gACD82513AD65BE573DC8BC3FE210A062" x="14.879999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                    <use xlink:href="#g75A3E5AD3B2A3EBB98D068ED0BA3DFF6" x="22.32" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                    <use xlink:href="#g9F4DFE647321930D67AF625EE741FCB1" x="29.759999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                    <use xlink:href="#g3695E3CD5E9EB2CF0C11A1DCAC8A0B1A" x="37.199999999999996" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                    <use xlink:href="#g4E963E132D7A8C6068888D83BCD39EED" x="44.63999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g transform="translate(91.24000000000001 29.159999999999997)">
+                                    <g class="typst-group">
+                                        <g>
+                                            <g transform="translate(0 23.36)">
+                                                <g class="typst-text" transform="scale(1, -1)">
+                                                    <use xlink:href="#g7DB1277550BAB30DF553409D3683E021" x="0" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                    <use xlink:href="#g54FC418604589FA61505B5F1444A575" x="19.84" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                    <use xlink:href="#g2198EDA9CC91EA7E6BF4C4697C680A86" x="39.68" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g transform="translate(24.280000000000058 72.91999999999999)">
+                                    <g class="typst-group">
+                                        <g>
+                                            <g transform="translate(0 8.76)">
+                                                <g class="typst-text" transform="scale(1, -1)">
+                                                    <use xlink:href="#g52337D72ECE54BBFC0B12EF45B72635" x="0" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                    <use xlink:href="#gCF3B37150B048F9FC9314AC11DFB6081" x="7.4399999999999995" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                    <use xlink:href="#g90C41F65C3DEA3038C8AE82B7C4F126D" x="14.879999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                    <use xlink:href="#g3C97F83C38CC1C7CF53BD929620947E" x="22.32" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                    <use xlink:href="#gCB4D3A342000D180C67DA82853E12ECB" x="29.759999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                    <use xlink:href="#g37ADD0C4C2F75C315E2A158D731AAE7C" x="37.199999999999996" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                    <use xlink:href="#g6C2858FB971023FE75E17C6C00A024BF" x="44.63999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                    <use xlink:href="#gECE02589C4280D6465E5A4A7B97C845B" x="52.07999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                    <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="59.51999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                    <use xlink:href="#g6C2858FB971023FE75E17C6C00A024BF" x="66.96" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                    <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="74.39999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                    <use xlink:href="#g6251184F7479BA457456EE56AA82028E" x="81.83999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                    <use xlink:href="#g719E63993D52301AD8E1FD7D30CCA49" x="96.71999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                    <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="104.15999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                    <use xlink:href="#g719E63993D52301AD8E1FD7D30CCA49" x="111.59999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                    <use xlink:href="#g3832F48C061306D5A143E5A5D4745C9E" x="119.03999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                    <use xlink:href="#g6C2858FB971023FE75E17C6C00A024BF" x="126.47999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                    <use xlink:href="#gCE33D0F226F88A5B1AC87C87A0C04DFF" x="141.35999999999999" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                    <use xlink:href="#gF09A65D3271E8B2BB5DA4910170CD83D" x="148.79999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                    <use xlink:href="#gC97B308B3B4D028BE3350BDF49174898" x="156.23999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                    <use xlink:href="#g115B49342442011A4D0B712F3C3C6418" x="163.67999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                    <use xlink:href="#gECE02589C4280D6465E5A4A7B97C845B" x="171.11999999999998" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                    <use xlink:href="#gFFB5629B1E2E86144580655E51431970" x="178.55999999999997" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                    <use xlink:href="#g520249587FD7F89DBA89499C1536E3A7" x="185.99999999999997" fill="oklch(95.350% 0.02700 -129.090deg)"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g transform="translate(0 198)">
+            <g class="typst-group">
+                <g>
+                    <g transform="translate(521.5999999999999 55.68)">
+                        <g class="typst-text" transform="scale(1, -1)">
+                            <use xlink:href="#g659C60629150CD8E53BA42C64A9FB684" x="0" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#gFB50D481D75E7C5D9FA5FC42168706AC" x="19.84" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#gEEAD7E5BB355D1B5B323E6A95F25F513" x="39.68" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#g39181ED2002EEACC4208270A120C5399" x="59.519999999999996" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#g821516ABD8246B9C965C9A57C83F56AC" x="99.2" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#gCFBC81A578DEBEEE32DA118FE6485F3E" x="119.04" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#g985F3AB1947B2A3895790FE12D00EC35" x="138.88" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#gF4FA03CD7E1CE2FA3375C019185220A" x="158.72" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#g39181ED2002EEACC4208270A120C5399" x="178.56" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#g45C7F33EFE145CC946B8EE638E7D9B36" x="218.24" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#g54FC418604589FA61505B5F1444A575" x="238.08" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#g3BF459EF92AF8E8B96EDC819BB64E2DB" x="257.92" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#gFCCC12D290EFD243573BF3C44E607535" x="277.76" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#gCFBC81A578DEBEEE32DA118FE6485F3E" x="297.59999999999997" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#g985F3AB1947B2A3895790FE12D00EC35" x="317.43999999999994" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#g39181ED2002EEACC4208270A120C5399" x="337.2799999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#gFCCC12D290EFD243573BF3C44E607535" x="376.95999999999987" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#g423F914E59A0E9B750F67AFCE31C23C2" x="396.79999999999984" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#gE046207ABE90F0B886F429D80F64F88F" x="416.6399999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#g3E21C87D1A50726349670CDCEE39B0C4" x="436.4799999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#g75FCBB32BE751C03D4F724493ADDD52B" x="456.31999999999977" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#g588363F1E015B732B7E4E1B166C1CC4" x="476.15999999999974" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#g985674FBDD98E488476C2F3F86CC5F60" x="495.9999999999997" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#g659C60629150CD8E53BA42C64A9FB684" x="515.8399999999997" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#gA2F905AAD368F369B3DB13F4E0DA3585" x="535.6799999999997" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#g2EA0C6304F716EB2EFD085D59C8E999" x="555.5199999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#gAB6139A78BF516A6D519931E7C5DC1BE" x="575.3599999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#g12CDA51F85ACE2CB7DC1253D23519DED" x="595.1999999999998" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#g2198EDA9CC91EA7E6BF4C4697C680A86" x="634.8799999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#gA2F905AAD368F369B3DB13F4E0DA3585" x="654.7199999999999" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#g2198EDA9CC91EA7E6BF4C4697C680A86" x="674.56" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#gFB50D481D75E7C5D9FA5FC42168706AC" x="694.4" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#g2EA0C6304F716EB2EFD085D59C8E999" x="714.24" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#g659C60629150CD8E53BA42C64A9FB684" x="753.9200000000001" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#gFB50D481D75E7C5D9FA5FC42168706AC" x="773.7600000000001" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#g5754BCB7D82E86427E2C0D7447E62814" x="793.6000000000001" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#gA2F905AAD368F369B3DB13F4E0DA3585" x="813.4400000000002" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#g985674FBDD98E488476C2F3F86CC5F60" x="833.2800000000002" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#g2EA0C6304F716EB2EFD085D59C8E999" x="853.1200000000002" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                            <use xlink:href="#g7EFCF4D849DEB9BD62D69AD03DD518D5" x="872.9600000000003" fill="oklch(29.940% 0.04800 -108.170deg)"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs id="glyph">
+        <symbol id="gCE33D0F226F88A5B1AC87C87A0C04DFF" overflow="visible">
+            <path d="M 3.492 8.904 C 1.998 8.904 0.822 8.238 0.774 6.522 L 1.89 6.42 C 2.01 7.524 2.58 7.938 3.54 7.938 C 4.5360003 7.938 5.094 7.494 5.094 6.5160003 C 5.094 5.274 4.236 4.794 3.264 4.236 C 1.638 3.318 0.774 2.382 0.774 0.984 L 0.774 0 L 6.57 0 L 6.57 0.984 L 1.89 0.984 C 1.926 2.016 2.46 2.544 3.834 3.3240001 C 4.932 3.96 6.264 4.62 6.264 6.528 C 6.264 8.178 5.1540003 8.904 3.492 8.904 Z "/>
+        </symbol>
+        <symbol id="gF09A65D3271E8B2BB5DA4910170CD83D" overflow="visible">
+            <path d="M 3.588 8.898 C 2.16 8.898 0.966 8.262 0.90000004 6.528 L 1.998 6.426 C 2.118 7.488 2.7 7.932 3.63 7.932 C 4.626 7.932 5.202 7.416 5.202 6.57 C 5.202 5.55 4.344 4.926 2.988 4.926 L 2.838 4.926 L 2.838 4.002 L 2.994 4.002 C 4.29 4.002 5.4 3.5640001 5.4 2.322 C 5.4 1.44 4.83 0.834 3.648 0.834 C 2.586 0.834 1.974 1.386 1.848 2.526 L 0.726 2.424 C 0.768 0.798 1.746 -0.144 3.66 -0.144 C 5.616 -0.144 6.6 0.87 6.6 2.322 C 6.6 3.8040001 5.622 4.32 4.554 4.518 C 5.526 4.77 6.348 5.382 6.348 6.66 C 6.348 8.118 5.3580003 8.898 3.588 8.898 Z "/>
+        </symbol>
+        <symbol id="g3832F48C061306D5A143E5A5D4745C9E" overflow="visible">
+            <path d="M 5.784 0 L 5.784 2.382 L 6.774 2.382 L 6.774 3.366 L 5.784 3.366 L 5.784 8.76 L 4.584 8.76 L 0.6 3.366 L 0.6 2.382 L 4.644 2.382 L 4.644 0 Z M 1.77 3.3240001 L 4.644 7.236 L 4.644 3.3240001 Z "/>
+        </symbol>
+        <symbol id="g5A971C9C880F0C2BAFEB2DA513DF30B0" overflow="visible">
+            <path d="M 6.726 3.09 C 6.726 5.052 5.868 6.306 4.308 6.306 C 3.414 6.306 2.784 5.892 2.34 5.346 L 2.2680001 5.346 L 2.2680001 9.18 L 1.1340001 9.18 L 1.1340001 0 L 2.094 0 L 2.184 0.816 L 2.346 0.816 C 2.742 0.27 3.354 -0.144 4.26 -0.144 C 5.814 -0.144 6.726 1.086 6.726 3.09 Z M 2.2680001 1.518 L 2.2680001 4.638 C 2.784 5.1540003 3.294 5.34 3.846 5.34 C 4.962 5.34 5.556 4.584 5.556 3.09 C 5.556 1.5600001 4.926 0.816 3.828 0.816 C 3.288 0.816 2.772 1.002 2.2680001 1.518 Z "/>
+        </symbol>
+        <symbol id="g9F4DFE647321930D67AF625EE741FCB1" overflow="visible">
+            <path d="M 3.4620001 6.162 L 0.864 6.162 L 0.864 5.244 L 2.502 5.244 L 2.502 0.918 L 0.864 0.918 L 0.864 0 L 5.82 0 L 5.82 0.918 L 3.636 0.918 L 3.636 4.476 C 4.542 5.1 5.268 5.19 6.636 5.19 L 6.636 6.252 C 6.4500003 6.288 6.264 6.306 6.042 6.306 C 4.962 6.306 4.35 5.946 3.714 5.2860003 L 3.558 5.2860003 Z "/>
+        </symbol>
+        <symbol id="g8DB6A06BC921CE9083DD85DA088851D0" overflow="visible">
+            <path d="M 0.186 8.76 L 1.572 0 L 2.538 0 L 3.678 5.502 L 3.762 5.502 L 4.824 0 L 5.862 0 L 7.254 8.76 L 6.198 8.76 L 5.238 2.4060001 L 5.1480002 2.4060001 L 4.23 7.296 L 3.348 7.296 L 2.334 2.4060001 L 2.244 2.4060001 L 1.29 8.76 Z "/>
+        </symbol>
+        <symbol id="gCB4D3A342000D180C67DA82853E12ECB" overflow="visible">
+            <path d="M 2.2680001 0 L 2.2680001 4.464 C 2.724 5.0160003 3.294 5.376 4.026 5.376 C 4.65 5.376 5.172 5.112 5.172 4.11 L 5.172 0 L 6.306 0 L 6.306 4.41 C 6.306 5.748 5.6280003 6.306 4.548 6.306 C 3.528 6.306 2.892 5.802 2.412 5.28 L 2.2680001 5.28 L 2.2680001 9.18 L 1.1340001 9.18 L 1.1340001 0 Z "/>
+        </symbol>
+        <symbol id="g3AAF92A8AC89811432F028A7F556ECAD" overflow="visible">
+            <path d="M 0.966 0 L 6.474 0 L 6.474 0.918 L 4.29 0.918 L 4.29 6.156 L 4.14 6.3 L 0.966 6.162 L 0.966 5.262 L 3.15 5.262 L 3.15 0.918 L 0.966 0.918 Z M 2.658 8.49 C 2.658 8.01 3 7.716 3.4980001 7.716 C 3.99 7.716 4.3320003 8.01 4.3320003 8.49 C 4.3320003 8.97 3.99 9.258 3.4980001 9.258 C 3 9.258 2.658 8.97 2.658 8.49 Z "/>
+        </symbol>
+        <symbol id="g257B3232E3E0F22C4A2E84D7A9171C14" overflow="visible">
+            <path d="M 2.376 2.058 C 2.376 0.51600003 3.048 -0.138 4.38 -0.138 C 5.808 -0.138 6.39 0.624 6.39 2.0640001 L 6.39 2.286 L 5.532 2.286 L 5.532 1.9860001 C 5.532 1.17 5.178 0.756 4.518 0.756 C 3.888 0.756 3.516 1.1340001 3.516 1.9860001 L 3.516 5.244 L 6.348 5.244 L 6.348 6.162 L 3.516 6.162 L 3.516 8.094 L 2.376 8.094 L 2.376 6.162 L 0.588 6.162 L 0.588 5.244 L 2.376 5.244 Z "/>
+        </symbol>
+        <symbol id="g3695E3CD5E9EB2CF0C11A1DCAC8A0B1A" overflow="visible">
+            <path d="M 0.714 3.09 C 0.714 0.972 1.968 -0.144 3.81 -0.144 C 5.166 -0.144 6.1740003 0.468 6.594 1.62 L 5.4900002 1.806 C 5.196 1.104 4.602 0.786 3.816 0.786 C 2.6100001 0.786 1.896 1.542 1.878 3.042 L 6.618 3.042 L 6.618 3.582 C 6.618 5.394 5.598 6.306 3.852 6.306 C 1.956 6.306 0.714 5.172 0.714 3.09 Z M 1.938 3.798 C 2.136 4.842 2.808 5.376 3.816 5.376 C 4.782 5.376 5.502 4.896 5.508 3.798 Z "/>
+        </symbol>
+        <symbol id="g8C8BEFCFF8A08B277642E9E6ABB7A386" overflow="visible">
+            <path d="M 17.936 8.240001 C 17.936 13.472001 15.648001 16.816 11.488001 16.816 C 9.104 16.816 7.4240003 15.712001 6.2400002 14.2560005 L 6.0480003 14.2560005 L 6.0480003 24.480001 L 3.0240002 24.480001 L 3.0240002 0 L 5.584 0 L 5.8240004 2.176 L 6.2560005 2.176 C 7.3120003 0.72 8.944 -0.384 11.360001 -0.384 C 15.504001 -0.384 17.936 2.8960001 17.936 8.240001 Z M 6.0480003 4.0480003 L 6.0480003 12.368001 C 7.4240003 13.744 8.784 14.240001 10.2560005 14.240001 C 13.232 14.240001 14.816001 12.224001 14.816001 8.240001 C 14.816001 4.1600003 13.136001 2.176 10.208 2.176 C 8.768001 2.176 7.392 2.6720002 6.0480003 4.0480003 Z "/>
+        </symbol>
+        <symbol id="g54FC418604589FA61505B5F1444A575" overflow="visible">
+            <path d="M 1.904 8.976001 C 1.904 4.3360004 4.32 1.2 8.320001 1.2 C 10.704 1.2 12.416 2.3040001 13.6 3.7600002 L 13.792001 3.7600002 L 13.792001 0.60800004 C 13.792001 -3.2480001 11.936001 -4.3360004 9.408 -4.3360004 C 7.1520004 -4.3360004 5.6800003 -3.4720001 5.072 -1.5840001 L 2.3200002 -2.2080002 C 2.9120002 -4.7200003 4.88 -6.576 9.408 -6.576 C 14.208001 -6.576 16.816 -4.464 16.816 0.92800003 L 16.816 16.432001 L 14.2560005 16.432001 L 14.016001 14.2560005 L 13.584001 14.2560005 C 12.528001 15.712001 10.864 16.816 8.448 16.816 C 4.4480004 16.816 1.904 13.76 1.904 8.976001 Z M 5.024 8.976001 C 5.024 12.320001 6.7520003 14.2560005 9.632001 14.2560005 C 11.0720005 14.2560005 12.448001 13.76 13.792001 12.384001 L 13.792001 5.664 C 12.416 4.288 11.056001 3.7760003 9.584001 3.7760003 C 6.656 3.7760003 5.024 5.7440004 5.024 8.976001 Z "/>
+        </symbol>
+        <symbol id="g52337D72ECE54BBFC0B12EF45B72635" overflow="visible">
+            <path d="M 6.726 3.072 C 6.726 5.226 5.376 6.306 3.72 6.306 C 2.07 6.306 0.714 5.226 0.714 3.072 C 0.714 0.912 2.07 -0.144 3.72 -0.144 C 5.376 -0.144 6.726 0.912 6.726 3.072 Z M 1.878 3.072 C 1.878 4.644 2.64 5.376 3.72 5.376 C 4.8 5.376 5.556 4.644 5.556 3.072 C 5.556 1.5 4.8 0.786 3.72 0.786 C 2.64 0.786 1.878 1.5 1.878 3.072 Z "/>
+        </symbol>
+        <symbol id="gCF3B37150B048F9FC9314AC11DFB6081" overflow="visible">
+            <path d="M 2.2680001 0 L 2.2680001 2.856 L 3.354 2.856 L 5.73 0 L 7.104 0 L 4.374 3.276 L 4.374 3.354 L 6.852 6.162 L 5.556 6.162 L 3.474 3.774 L 2.2680001 3.774 L 2.2680001 9.18 L 1.1340001 9.18 L 1.1340001 0 Z "/>
+        </symbol>
+        <symbol id="g90C41F65C3DEA3038C8AE82B7C4F126D" overflow="visible">
+            <path d="M 0.966 0 L 6.474 0 L 6.474 0.918 L 4.29 0.918 L 4.29 9.174 L 4.14 9.312 L 0.966 9.18 L 0.966 8.28 L 3.1560001 8.28 L 3.15 0.918 L 0.966 0.918 Z "/>
+        </symbol>
+        <symbol id="g3C97F83C38CC1C7CF53BD929620947E" overflow="visible">
+            <path d="M 6.66 1.878 L 5.5620003 2.052 C 5.31 1.218 4.692 0.786 3.798 0.786 C 2.628 0.786 1.8840001 1.536 1.8840001 3.096 C 1.8840001 4.572 2.55 5.376 3.822 5.376 C 4.722 5.376 5.394 4.974 5.538 4.026 L 6.66 4.122 C 6.504 5.604 5.3580003 6.306 3.852 6.306 C 1.998 6.306 0.714 5.244 0.714 3.096 C 0.714 0.96000004 1.974 -0.144 3.792 -0.144 C 5.196 -0.144 6.318 0.51600003 6.66 1.878 Z "/>
+        </symbol>
+        <symbol id="g37ADD0C4C2F75C315E2A158D731AAE7C" overflow="visible">
+            <path d="M 3.318 3.606 C 3.318 6.618 4.6740003 8.208 6.264 9.612 L 5.19 9.612 C 3.738 8.472 2.178 6.762 2.178 3.606 C 2.178 0.438 3.738 -1.26 5.19 -2.4 L 6.264 -2.4 C 4.6740003 -0.996 3.318 0.594 3.318 3.606 Z "/>
+        </symbol>
+        <symbol id="g2E93E9B33A1AE6D093998E5D20F75298" overflow="visible">
+            <path d="M 1.23 7.074 L 1.23 5.928 C 1.9020001 5.928 2.652 6.342 3.216 6.954 L 3.216 0.984 L 1.014 0.984 L 1.014 0 L 6.642 0 L 6.642 0.984 L 4.38 0.984 L 4.38 8.76 L 3.216 8.76 C 2.994 7.842 1.866 7.074 1.23 7.074 Z "/>
+        </symbol>
+        <symbol id="g115B49342442011A4D0B712F3C3C6418" overflow="visible">
+            <path d="M 3.72 -0.21000001 C 4.338 -0.21000001 4.83 0.198 4.83 0.876 C 4.83 1.5600001 4.338 1.95 3.72 1.95 C 3.108 1.95 2.6100001 1.5600001 2.6100001 0.876 C 2.6100001 0.198 3.108 -0.21000001 3.72 -0.21000001 Z "/>
+        </symbol>
+        <symbol id="g719E63993D52301AD8E1FD7D30CCA49" overflow="visible">
+            <path d="M 6.8580003 4.386 C 6.8580003 7.5 5.664 8.91 3.72 8.91 C 1.776 8.91 0.582 7.5 0.582 4.386 C 0.582 1.32 1.776 -0.144 3.72 -0.144 C 5.664 -0.144 6.8580003 1.32 6.8580003 4.386 Z M 1.812 4.386 C 1.812 6.966 2.496 7.872 3.72 7.872 C 4.95 7.872 5.6280003 6.966 5.6280003 4.386 C 5.6280003 1.806 4.95 0.894 3.72 0.894 C 2.496 0.894 1.812 1.806 1.812 4.386 Z M 3.0540001 4.368 C 3.0540001 4.962 3.294 5.298 3.72 5.298 C 4.152 5.298 4.392 4.962 4.392 4.368 C 4.392 3.786 4.152 3.438 3.72 3.438 C 3.294 3.438 3.0540001 3.786 3.0540001 4.368 Z "/>
+        </symbol>
+        <symbol id="gECE02589C4280D6465E5A4A7B97C845B" overflow="visible">
+            <path d="M 3.558 -0.132 C 5.322 -0.132 6.768 0.846 6.768 4.326 C 6.768 7.638 5.61 8.904 3.684 8.904 C 1.704 8.904 0.756 7.728 0.756 5.994 C 0.756 4.206 1.788 3.3960001 3.27 3.3960001 C 4.3320003 3.3960001 5.058 3.834 5.5620003 4.314 L 5.5620003 4.308 C 5.5620003 1.482 4.65 0.834 3.594 0.834 C 2.67 0.834 2.142 1.302 2.016 2.274 L 0.906 2.172 C 1.008 0.498 2.1660001 -0.132 3.558 -0.132 Z M 1.938 6.012 C 1.938 7.236 2.634 7.926 3.684 7.926 C 4.776 7.926 5.412 7.2000003 5.538 5.1480002 C 5.046 4.65 4.368 4.236 3.546 4.236 C 2.568 4.236 1.938 4.8120003 1.938 6.012 Z "/>
+        </symbol>
+        <symbol id="g6251184F7479BA457456EE56AA82028E" overflow="visible">
+            <path d="M 1.9020001 5.7660003 C 2.718 5.7660003 3.3240001 6.3780003 3.3240001 7.344 C 3.3240001 8.298 2.718 8.904 1.9020001 8.904 C 1.086 8.904 0.48000002 8.298 0.48000002 7.344 C 0.48000002 6.3780003 1.086 5.7660003 1.9020001 5.7660003 Z M 0.96000004 0 L 1.776 0 L 6.48 8.76 L 5.664 8.76 Z M 1.218 7.344 C 1.218 7.986 1.506 8.292 1.9020001 8.292 C 2.304 8.292 2.586 7.986 2.586 7.344 C 2.586 6.696 2.304 6.384 1.9020001 6.384 C 1.506 6.384 1.218 6.696 1.218 7.344 Z M 4.116 1.434 C 4.116 0.474 4.722 -0.144 5.538 -0.144 C 6.354 -0.144 6.96 0.474 6.96 1.434 C 6.96 2.388 6.354 2.994 5.538 2.994 C 4.722 2.994 4.116 2.388 4.116 1.434 Z M 4.854 1.434 C 4.854 2.076 5.142 2.382 5.538 2.382 C 5.94 2.382 6.228 2.076 6.228 1.434 C 6.228 0.786 5.94 0.468 5.538 0.468 C 5.142 0.468 4.854 0.786 4.854 1.434 Z "/>
+        </symbol>
+        <symbol id="g6C2858FB971023FE75E17C6C00A024BF" overflow="visible">
+            <path d="M 3.882 8.898 C 2.118 8.898 0.672 7.92 0.672 4.44 C 0.672 1.128 1.83 -0.138 3.756 -0.138 C 5.736 -0.138 6.684 1.038 6.684 2.772 C 6.684 4.56 5.652 5.37 4.17 5.37 C 3.108 5.37 2.382 4.932 1.878 4.452 L 1.878 4.458 C 1.878 7.284 2.79 7.932 3.846 7.932 C 4.77 7.932 5.298 7.464 5.4240003 6.492 L 6.534 6.594 C 6.432 8.268 5.274 8.898 3.882 8.898 Z M 1.9020001 3.618 C 2.394 4.116 3.072 4.53 3.894 4.53 C 4.872 4.53 5.502 3.954 5.502 2.754 C 5.502 1.53 4.806 0.84000003 3.756 0.84000003 C 2.664 0.84000003 2.028 1.566 1.9020001 3.618 Z "/>
+        </symbol>
+        <symbol id="gFFB5629B1E2E86144580655E51431970" overflow="visible">
+            <path d="M 1.446 8.76 L 0.906 4.122 L 1.914 3.9420002 C 2.322 4.38 2.9160001 4.752 3.708 4.752 C 4.734 4.752 5.418 4.086 5.418 2.784 C 5.418 1.404 4.722 0.84000003 3.612 0.84000003 C 2.586 0.84000003 1.968 1.368 1.866 2.532 L 0.726 2.43 C 0.768 0.858 1.71 -0.138 3.582 -0.138 C 5.58 -0.138 6.6 0.948 6.6 2.79 C 6.6 4.572 5.598 5.568 3.954 5.568 C 3.138 5.568 2.526 5.316 2.034 4.968 L 2.3700001 7.776 L 6.126 7.776 L 6.126 8.76 Z "/>
+        </symbol>
+        <symbol id="g4AA41D2268E95469B8B5A76A588F8B4E" overflow="visible">
+            <path d="M 3.72 8.904 C 2.172 8.904 0.972 8.190001 0.972 6.708 C 0.972 5.652 1.572 4.98 2.43 4.506 C 1.53 4.116 0.67800003 3.444 0.67800003 2.1660001 C 0.67800003 0.828 1.65 -0.15 3.66 -0.15 C 5.736 -0.15 6.762 0.84000003 6.762 2.2680001 C 6.762 3.54 5.958 4.1940002 5.004 4.626 C 5.8320003 5.022 6.474 5.592 6.474 6.696 C 6.474 8.244 5.232 8.904 3.72 8.904 Z M 1.836 2.316 C 1.836 3.3 2.502 3.846 3.18 4.17 C 3.204 4.158 3.234 4.152 3.2580001 4.14 C 4.818 3.558 5.55 3.228 5.55 2.274 C 5.55 1.32 4.866 0.834 3.726 0.834 C 2.652 0.834 1.836 1.272 1.836 2.316 Z M 2.112 6.702 C 2.112 7.518 2.742 7.9440002 3.684 7.9440002 C 4.68 7.9440002 5.382 7.476 5.382 6.57 C 5.382 5.76 4.818 5.292 4.14 4.956 C 4.14 4.956 4.134 4.962 4.1280003 4.962 C 2.8500001 5.364 2.112 5.826 2.112 6.702 Z "/>
+        </symbol>
+        <symbol id="g520249587FD7F89DBA89499C1536E3A7" overflow="visible">
+            <path d="M 4.122 3.606 C 4.122 0.594 2.766 -0.996 1.176 -2.4 L 2.25 -2.4 C 3.7020001 -1.26 5.262 0.45000002 5.262 3.606 C 5.262 6.774 3.7020001 8.472 2.25 9.612 L 1.176 9.612 C 2.766 8.208 4.122 6.618 4.122 3.606 Z "/>
+        </symbol>
+        <symbol id="g85E11F004C0598774AC9BDBC77A025D8" overflow="visible">
+            <path d="M 2.184 0 L 2.184 3.966 L 3.336 3.966 L 5.658 0 L 6.984 0 L 4.392 4.41 L 4.392 4.5 L 6.882 8.76 L 5.61 8.76 L 3.474 4.95 L 2.184 4.95 L 2.184 8.76 L 1.026 8.76 L 1.026 0 Z "/>
+        </symbol>
+        <symbol id="g94B36CBCAF64883835A02409E174D86B" overflow="visible">
+            <path d="M 1.1340001 6.162 L 1.1340001 1.752 C 1.1340001 0.42000002 1.824 -0.138 2.922 -0.138 C 3.966 -0.138 4.608 0.366 5.094 0.882 L 5.244 0.882 L 5.346 0 L 6.306 0 L 6.306 6.162 L 5.172 6.162 L 5.172 1.674 C 4.71 1.14 4.134 0.792 3.414 0.792 C 2.79 0.792 2.2680001 1.05 2.2680001 2.058 L 2.2680001 6.162 Z "/>
+        </symbol>
+        <symbol id="g82389B94470D0617B6E4058CE2690690" overflow="visible">
+            <path d="M 6.306 0 L 6.306 4.41 C 6.306 5.748 5.616 6.306 4.518 6.306 C 3.474 6.306 2.832 5.802 2.346 5.28 L 2.196 5.28 L 2.094 6.162 L 1.1340001 6.162 L 1.1340001 0 L 2.2680001 0 L 2.2680001 4.488 C 2.73 5.022 3.306 5.376 4.026 5.376 C 4.65 5.376 5.172 5.112 5.172 4.11 L 5.172 0 Z "/>
+        </symbol>
+        <symbol id="g5F38C61669EAEF249CFEA0DA9615FF4B" overflow="visible">
+            <path d="M 3.576 6.306 C 1.734 6.306 1.008 5.5620003 1.008 4.506 L 1.008 4.182 L 2.07 4.182 L 2.07 4.446 C 2.082 5.268 2.676 5.4900002 3.456 5.496 C 4.272 5.502 4.83 5.28 4.83 4.29 L 4.83 3.45 C 2.736 3.4620001 0.798 3.24 0.798 1.518 C 0.798 0.468 1.524 -0.144 2.664 -0.144 C 3.66 -0.144 4.29 0.318 4.788 0.768 L 4.896 0.768 C 4.938 0.276 5.184 -0.120000005 5.928 -0.120000005 C 6.156 -0.120000005 6.414 -0.084 6.696 0 L 6.696 0.828 C 6.132 0.744 5.964 0.858 5.964 1.302 L 5.964 4.356 C 5.964 5.808 5.0820003 6.306 3.576 6.306 Z M 1.9860001 1.656 C 1.9860001 2.502 2.844 2.8140001 4.26 2.8140001 C 4.44 2.8140001 4.638 2.802 4.83 2.784 L 4.83 1.332 C 4.326 0.966 3.822 0.714 3.174 0.714 C 2.43 0.714 1.9860001 1.044 1.9860001 1.656 Z "/>
+        </symbol>
+        <symbol id="gCFBC81A578DEBEEE32DA118FE6485F3E" overflow="visible">
+            <path d="M 9.232 16.432001 L 2.3040001 16.432001 L 2.3040001 13.984 L 6.6720004 13.984 L 6.6720004 2.4480002 L 2.3040001 2.4480002 L 2.3040001 0 L 15.52 0 L 15.52 2.4480002 L 9.696 2.4480002 L 9.696 11.936001 C 12.112 13.6 14.048 13.840001 17.696001 13.840001 L 17.696001 16.672 C 17.2 16.768002 16.704 16.816 16.112001 16.816 C 13.232 16.816 11.6 15.856001 9.904 14.096001 L 9.488001 14.096001 Z "/>
+        </symbol>
+        <symbol id="g985F3AB1947B2A3895790FE12D00EC35" overflow="visible">
+            <path d="M 1.904 8.240001 C 1.904 2.592 5.248 -0.384 10.160001 -0.384 C 13.776001 -0.384 16.464 1.248 17.584002 4.32 L 14.64 4.8160005 C 13.856001 2.9440002 12.272 2.0960002 10.176001 2.0960002 C 6.9600005 2.0960002 5.056 4.112 5.0080004 8.112 L 17.648 8.112 L 17.648 9.552 C 17.648 14.384001 14.928 16.816 10.272 16.816 C 5.216 16.816 1.904 13.792001 1.904 8.240001 Z M 5.168 10.128 C 5.696 12.912001 7.4880004 14.336 10.176001 14.336 C 12.752001 14.336 14.672001 13.056001 14.688001 10.128 Z "/>
+        </symbol>
+        <symbol id="g9CCC4D3EB26A79ED678D3A137D87B61E" overflow="visible">
+            <path d="M 1.904 8.176001 C 1.904 2.96 4.1920004 -0.4 8.352 -0.4 C 10.736 -0.4 12.416 0.70400006 13.6 2.16 L 14.016001 2.16 L 14.2560005 0 L 16.816 0 L 16.816 24.480001 L 13.792001 24.480001 L 13.792001 14.2560005 L 13.584001 14.2560005 C 12.528001 15.712001 10.896001 16.816 8.4800005 16.816 C 4.3360004 16.816 1.904 13.536 1.904 8.176001 Z M 5.024 8.176001 C 5.024 12.272 6.7040005 14.2560005 9.632001 14.2560005 C 11.0720005 14.2560005 12.448001 13.76 13.792001 12.384001 L 13.792001 4.064 C 12.416 2.6880002 11.056001 2.176 9.584001 2.176 C 6.6080003 2.176 5.024 4.208 5.024 8.176001 Z "/>
+        </symbol>
+        <symbol id="g62ACB34828EDE8EC3F887B0D515A9FFB" overflow="visible">
+            <path d="M 1.23 7.074 L 1.23 5.928 C 1.668 5.928 2.298 6.324 2.8140001 6.912 L 2.8140001 0.984 L 1.014 0.984 L 1.014 0 L 5.892 0 L 5.892 0.984 L 3.978 0.984 L 3.978 8.76 L 2.8140001 8.76 C 2.604 7.842 1.464 7.074 1.23 7.074 Z "/>
+        </symbol>
+        <symbol id="gF04ED8E4FA5DC85CDF697D0A412C8F1B" overflow="visible">
+            <path d="M 1.548 5.724 C 2.4 5.724 3.0180001 6.36 3.0180001 7.32 C 3.0180001 8.28 2.4 8.904 1.548 8.904 C 0.69 8.904 0.078 8.28 0.078 7.32 C 0.078 6.36 0.69 5.724 1.548 5.724 Z M 0.612 0 L 1.452 0 L 6.426 8.76 L 5.58 8.76 Z M 0.81 7.32 C 0.81 7.956 1.11 8.28 1.548 8.28 C 1.9860001 8.28 2.28 7.956 2.28 7.32 C 2.28 6.684 1.9860001 6.348 1.548 6.348 C 1.11 6.348 0.81 6.684 0.81 7.32 Z M 4.02 1.452 C 4.02 0.492 4.638 -0.144 5.4900002 -0.144 C 6.348 -0.144 6.96 0.492 6.96 1.452 C 6.96 2.4060001 6.348 3.036 5.4900002 3.036 C 4.638 3.036 4.02 2.4060001 4.02 1.452 Z M 4.758 1.452 C 4.758 2.088 5.052 2.418 5.4900002 2.418 C 5.928 2.418 6.228 2.088 6.228 1.452 C 6.228 0.81 5.928 0.48000002 5.4900002 0.48000002 C 5.052 0.48000002 4.758 0.81 4.758 1.452 Z "/>
+        </symbol>
+        <symbol id="gC117ECB856CE159882A1840C258B041B" overflow="visible">
+            <path d="M 7.116 0 L 4.344 8.76 L 3.084 8.76 L 0.324 0 L 1.488 0 L 2.208 2.394 L 5.178 2.394 L 5.9040003 0 Z M 2.4720001 3.282 L 3.654 7.206 L 3.726 7.206 L 4.914 3.282 Z "/>
+        </symbol>
+        <symbol id="g69297362405BE312CC6B6B995CDDAEFD" overflow="visible">
+            <path d="M 4.758 0 L 4.746 4.6740003 C 4.998 5.07 5.346 5.346 5.79 5.346 C 6.138 5.346 6.474 5.184 6.474 4.572 L 6.474 0 L 7.5420003 0 L 7.5360003 4.938 C 7.53 5.868 7.05 6.3 6.306 6.3 C 5.586 6.3 5.07 5.874 4.77 5.274 L 4.722 5.274 C 4.62 5.9700003 4.176 6.3 3.522 6.3 C 2.808 6.3 2.274 5.874 1.974 5.274 L 1.8840001 5.274 L 1.794 6.162 L 0.906 6.162 L 0.906 0 L 1.962 0 L 1.962 4.662 C 2.214 5.064 2.568 5.346 3.012 5.346 C 3.354 5.346 3.69 5.184 3.69 4.572 L 3.69 0 Z "/>
+        </symbol>
+        <symbol id="g3AEF491F743BDB2217DD2D21F25061F4" overflow="visible">
+            <path d="M 2.034 0 L 6.474 0 L 6.474 0.912 L 4.824 0.912 L 4.824 6.156 L 4.6740003 6.3 L 2.034 6.162 L 2.034 5.262 L 3.684 5.262 L 3.684 0.912 L 2.034 0.912 Z M 3.198 8.466 C 3.198 7.986 3.54 7.692 4.038 7.692 C 4.53 7.692 4.872 7.986 4.872 8.466 C 4.872 8.946 4.53 9.234 4.038 9.234 C 3.54 9.234 3.198 8.946 3.198 8.466 Z "/>
+        </symbol>
+        <symbol id="g9E18BE7D99CE5E6127B8E2245A1D9CE4" overflow="visible">
+            <path d="M 0.714 3.066 C 0.714 1.11 1.572 -0.15 3.132 -0.15 C 4.026 -0.15 4.656 0.264 5.1 0.81 L 5.256 0.81 L 5.346 0 L 6.306 0 L 6.306 9.18 L 5.172 9.18 L 5.172 5.346 L 5.094 5.346 C 4.698 5.892 4.086 6.306 3.18 6.306 C 1.626 6.306 0.714 5.076 0.714 3.066 Z M 1.8840001 3.066 C 1.8840001 4.602 2.514 5.346 3.612 5.346 C 4.152 5.346 4.668 5.16 5.172 4.644 L 5.172 1.524 C 4.656 1.008 4.146 0.816 3.594 0.816 C 2.478 0.816 1.8840001 1.5780001 1.8840001 3.066 Z "/>
+        </symbol>
+        <symbol id="g3BF459EF92AF8E8B96EDC819BB64E2DB" overflow="visible">
+            <path d="M 16.816 0 L 16.816 11.76 C 16.816 15.328001 14.976001 16.816 12.048 16.816 C 9.264001 16.816 7.5520005 15.472001 6.2560005 14.080001 L 5.8560004 14.080001 L 5.584 16.432001 L 3.0240002 16.432001 L 3.0240002 0 L 6.0480003 0 L 6.0480003 11.968 C 7.28 13.392 8.816 14.336 10.736 14.336 C 12.400001 14.336 13.792001 13.632001 13.792001 10.960001 L 13.792001 0 Z "/>
+        </symbol>
+        <symbol id="gC97B308B3B4D028BE3350BDF49174898" overflow="visible">
+            <path d="M 0.924 8.76 L 0.924 7.776 L 5.2860003 7.776 L 2.358 0 L 3.576 0 L 6.54 7.9500003 L 6.54 8.76 Z "/>
+        </symbol>
+        <symbol id="gE2DE0879D13CFCFF7190CCF7BC61D000" overflow="visible">
+            <path d="M 2.226 0 L 2.226 3.522 L 3.294 3.522 C 3.372 3.522 3.444 3.522 3.522 3.528 L 5.568 0 L 6.966 0 L 4.644 3.696 C 5.976 4.074 6.678 5.052 6.678 6.3780003 C 6.678 8.0460005 5.466 8.76 3.7020001 8.76 L 1.062 8.76 L 1.062 0 Z M 2.226 4.428 L 2.226 7.842 L 3.402 7.842 C 4.77 7.842 5.484 7.416 5.484 6.264 C 5.484 5.172 4.89 4.428 3.2580001 4.428 Z "/>
+        </symbol>
+        <symbol id="gE046207ABE90F0B886F429D80F64F88F" overflow="visible">
+            <path d="M 2.5760002 0 L 17.264 0 L 17.264 2.4480002 L 11.440001 2.4480002 L 11.440001 24.464 L 11.040001 24.832 L 2.5760002 24.480001 L 2.5760002 22.080002 L 8.416 22.080002 L 8.400001 2.4480002 L 2.5760002 2.4480002 Z "/>
+        </symbol>
+        <symbol id="g74A3545F1626F33FB9F768DE09C82720" overflow="visible">
+            <path d="M 3.0240002 16.432001 L 3.0240002 4.6720004 C 3.0240002 1.12 4.8640003 -0.36800003 7.7920003 -0.36800003 C 10.576 -0.36800003 12.288 0.9760001 13.584001 2.352 L 13.984 2.352 L 14.2560005 0 L 16.816 0 L 16.816 16.432001 L 13.792001 16.432001 L 13.792001 4.464 C 12.56 3.0400002 11.024 2.112 9.104 2.112 C 7.4400005 2.112 6.0480003 2.8000002 6.0480003 5.4880004 L 6.0480003 16.432001 Z "/>
+        </symbol>
+        <symbol id="g8B9A8B590CA83D19A36842502F835DE4" overflow="visible">
+            <path d="M 1.842 4.374 C 1.842 6.954 2.682 7.872 3.882 7.872 C 4.938 7.872 5.55 7.134 5.646 5.922 L 6.75 6.012 C 6.678 7.8120003 5.568 8.898 3.852 8.898 C 1.926 8.898 0.63 7.494 0.63 4.374 C 0.63 1.272 1.938 -0.138 3.852 -0.138 C 5.574 -0.138 6.678 0.948 6.75 2.772 L 5.646 2.862 C 5.55 1.626 4.938 0.888 3.882 0.888 C 2.682 0.888 1.842 1.812 1.842 4.374 Z "/>
+        </symbol>
+        <symbol id="g89FC85ACC022FF134F3F87E6F69CC4D8" overflow="visible">
+            <path d="M 0.714 3.366 C 0.714 1.626 1.62 0.45000002 3.1200001 0.45000002 C 4.014 0.45000002 4.656 0.864 5.1 1.41 L 5.172 1.41 L 5.172 0.228 C 5.172 -1.218 4.476 -1.626 3.528 -1.626 C 2.682 -1.626 2.13 -1.302 1.9020001 -0.594 L 0.87 -0.828 C 1.092 -1.77 1.83 -2.466 3.528 -2.466 C 5.328 -2.466 6.306 -1.674 6.306 0.348 L 6.306 6.162 L 5.346 6.162 L 5.256 5.346 L 5.094 5.346 C 4.698 5.892 4.074 6.306 3.168 6.306 C 1.668 6.306 0.714 5.16 0.714 3.366 Z M 1.8840001 3.366 C 1.8840001 4.62 2.532 5.346 3.612 5.346 C 4.152 5.346 4.668 5.16 5.172 4.644 L 5.172 2.124 C 4.656 1.608 4.146 1.416 3.594 1.416 C 2.496 1.416 1.8840001 2.154 1.8840001 3.366 Z "/>
+        </symbol>
+        <symbol id="gC2195CCA34A1035A2F23438E2D97CC06" overflow="visible">
+            <path d="M 3.744 6.306 C 1.89 6.306 1.056 5.598 1.056 4.5 C 1.056 3.444 1.83 3 3.312 2.694 C 4.776 2.394 5.292 2.202 5.292 1.6620001 C 5.292 1.176 4.854 0.73800004 3.75 0.73800004 C 2.862 0.73800004 2.076 0.84000003 1.788 1.9200001 L 0.744 1.788 C 1.02 0.348 1.992 -0.138 3.696 -0.138 C 5.508 -0.138 6.426 0.63 6.426 1.788 C 6.426 2.862 5.658 3.24 4.014 3.576 C 2.64 3.858 2.142 4.074 2.142 4.602 C 2.142 5.184 2.73 5.46 3.6660001 5.46 C 4.704 5.46 5.244 5.1 5.322 4.3980002 L 6.354 4.4700003 C 6.306 5.718 5.37 6.306 3.744 6.306 Z "/>
+        </symbol>
+        <symbol id="g3E21C87D1A50726349670CDCEE39B0C4" overflow="visible">
+            <path d="M 17.76 5.0080004 L 14.832001 5.472 C 14.160001 3.2480001 12.512001 2.0960002 10.128 2.0960002 C 7.0080004 2.0960002 5.024 4.096 5.024 8.2560005 C 5.024 12.192 6.8 14.336 10.192 14.336 C 12.592001 14.336 14.384001 13.264001 14.768001 10.736 L 17.76 10.992001 C 17.344002 14.944 14.288001 16.816 10.272 16.816 C 5.328 16.816 1.904 13.984 1.904 8.2560005 C 1.904 2.5600002 5.2640004 -0.384 10.112 -0.384 C 13.856001 -0.384 16.848001 1.376 17.76 5.0080004 Z "/>
+        </symbol>
+        <symbol id="gF4FA03CD7E1CE2FA3375C019185220A" overflow="visible">
+            <path d="M 1.44 16.432001 L 8.768001 -0.272 L 8.512 -0.9760001 C 7.9360003 -2.4320002 6.7360005 -3.9040003 3.9840002 -3.9040003 C 3.2480001 -3.9040003 2.608 -3.808 1.9840001 -3.6480002 L 1.9840001 -6.352 C 2.5600002 -6.4800005 3.1680002 -6.576 3.92 -6.576 C 8.384001 -6.576 10.512 -3.6320002 12.032001 0.256 L 18.384 16.432001 L 15.328001 16.432001 L 10.4800005 3.584 L 10.2560005 3.584 L 4.704 16.432001 Z "/>
+        </symbol>
+        <symbol id="gCB0984C46A2539FCF889969F16F40BA" overflow="visible">
+            <path d="M 9.536 16.816 C 4.624 16.816 2.6880002 14.832001 2.6880002 12.016001 L 2.6880002 11.152 L 5.5200005 11.152 L 5.5200005 11.856001 C 5.552 14.048 7.136 14.64 9.216001 14.656001 C 11.392 14.672001 12.880001 14.080001 12.880001 11.440001 L 12.880001 9.200001 C 7.2960005 9.232 2.128 8.64 2.128 4.0480003 C 2.128 1.248 4.064 -0.384 7.1040006 -0.384 C 9.76 -0.384 11.440001 0.84800005 12.768001 2.048 L 13.056001 2.048 C 13.168 0.73600006 13.824 -0.32000002 15.808001 -0.32000002 C 16.416 -0.32000002 17.104 -0.224 17.856 0 L 17.856 2.2080002 C 16.352001 1.9840001 15.904 2.288 15.904 3.4720001 L 15.904 11.616 C 15.904 15.488001 13.552001 16.816 9.536 16.816 Z M 5.2960005 4.4160004 C 5.2960005 6.6720004 7.5840006 7.504 11.360001 7.504 C 11.84 7.504 12.368001 7.472 12.880001 7.4240003 L 12.880001 3.5520003 C 11.536 2.5760002 10.192 1.904 8.464001 1.904 C 6.4800005 1.904 5.2960005 2.7840002 5.2960005 4.4160004 Z "/>
+        </symbol>
+        <symbol id="gF24A005A543D8CF66FD3851DE8321FA9" overflow="visible">
+            <path d="M 0.924 8.76 L 0.924 7.776 L 4.914 7.776 L 2.154 0 L 3.366 0 L 6.162 7.9500003 L 6.162 8.76 Z "/>
+        </symbol>
+        <symbol id="gF866E96CF9A4DFB8158CC1A2B7FF0B5A" overflow="visible">
+            <path d="M 4.302 0 L 4.302 7.776 L 6.726 7.776 L 6.726 8.76 L 0.714 8.76 L 0.714 7.776 L 3.138 7.776 L 3.138 0 Z "/>
+        </symbol>
+        <symbol id="gB145D81EAD8EA541E5E594A6DB6A1F77" overflow="visible">
+            <path d="M 5.28 -0.192 L 5.2860003 6.156 L 5.142 6.3 L 1.23 6.162 L 1.23 5.262 L 4.152 5.262 L 4.152 -0.288 C 4.152 -1.164 3.738 -1.554 2.982 -1.554 C 2.226 -1.554 1.794 -1.164 1.794 -0.288 L 1.794 -0.024 L 0.786 -0.024 L 0.786 -0.192 C 0.786 -1.752 1.566 -2.466 3.006 -2.466 C 4.452 -2.466 5.28 -1.752 5.28 -0.192 Z M 3.648 8.49 C 3.648 8.01 3.99 7.716 4.482 7.716 C 4.98 7.716 5.322 8.01 5.322 8.49 C 5.322 8.97 4.98 9.258 4.482 9.258 C 3.99 9.258 3.648 8.97 3.648 8.49 Z "/>
+        </symbol>
+        <symbol id="g663B66E6B75E1D8532D54DA1B91DBF5A" overflow="visible">
+            <path d="M 11.2960005 0 L 11.2960005 12.992001 C 11.824 13.696001 12.512001 14.240001 13.360001 14.240001 C 14.016001 14.240001 14.672001 13.920001 14.672001 12.736001 L 14.672001 0 L 17.44 0 L 17.44 13.824 C 17.44 15.840001 16.416 16.800001 14.800001 16.800001 C 13.152 16.800001 12.000001 15.776001 11.360001 14.368001 L 11.264001 14.368001 C 11.104 16.016 10.128 16.800001 8.656 16.800001 C 7.0080004 16.800001 5.84 15.776001 5.184 14.368001 L 4.9440002 14.368001 L 4.7200003 16.432001 L 2.4160001 16.432001 L 2.4160001 0 L 5.168 0 L 5.168 12.992001 C 5.696 13.696001 6.3840003 14.240001 7.2320004 14.240001 C 7.8880005 14.240001 8.544001 13.920001 8.544001 12.736001 L 8.544001 0 Z "/>
+        </symbol>
+        <symbol id="g1E2667071D6537DEF7698806475DBC8B" overflow="visible">
+            <path d="M 6.3360004 5.4880004 C 6.3360004 1.376 8.128 -0.36800003 11.68 -0.36800003 C 15.488001 -0.36800003 17.04 1.664 17.04 5.504 L 17.04 6.096 L 14.752001 6.096 L 14.752001 5.2960005 C 14.752001 3.1200001 13.808001 2.016 12.048 2.016 C 10.368 2.016 9.376 3.0240002 9.376 5.2960005 L 9.376 13.984 L 16.928001 13.984 L 16.928001 16.432001 L 9.376 16.432001 L 9.376 21.584002 L 6.3360004 21.584002 L 6.3360004 16.432001 L 1.5680001 16.432001 L 1.5680001 13.984 L 6.3360004 13.984 Z "/>
+        </symbol>
+        <symbol id="gFCCC12D290EFD243573BF3C44E607535" overflow="visible">
+            <path d="M 17.936 8.192 C 17.936 13.936001 14.336 16.816 9.92 16.816 C 5.5200005 16.816 1.904 13.936001 1.904 8.192 C 1.904 2.4320002 5.5200005 -0.384 9.92 -0.384 C 14.336 -0.384 17.936 2.4320002 17.936 8.192 Z M 5.0080004 8.192 C 5.0080004 12.384001 7.0400004 14.336 9.92 14.336 C 12.8 14.336 14.816001 12.384001 14.816001 8.192 C 14.816001 4 12.8 2.0960002 9.92 2.0960002 C 7.0400004 2.0960002 5.0080004 4 5.0080004 8.192 Z "/>
+        </symbol>
+        <symbol id="g3C92B584C9CE537D6704610A57E692BB" overflow="visible">
+            <path d="M 0.416 16.432001 L 4.32 0 L 6.8160005 0 L 9.808001 9.8880005 L 10.032001 9.8880005 L 12.832001 0 L 15.52 0 L 19.424002 16.432001 L 16.640001 16.432001 L 14.016001 4.6400003 L 13.744 4.6400003 L 11.104 13.904 L 9.056001 13.904 L 6.2240005 4.6400003 L 5.952 4.6400003 L 3.3120003 16.432001 Z "/>
+        </symbol>
+        <symbol id="g489385974623B1C4C0263DB8EAB253F7" overflow="visible">
+            <path d="M 1.062 0 L 3.63 0 C 5.6940002 0 6.864 0.96000004 6.864 2.526 C 6.864 4.122 5.544 4.56 4.512 4.638 L 4.512 4.686 C 5.304 4.824 6.366 5.478 6.366 6.882 C 6.366 8.202 5.388 8.766 3.78 8.76 L 1.062 8.76 Z M 2.226 0.90000004 L 2.226 4.152 L 3.372 4.152 C 4.6740003 4.152 5.664 3.828 5.664 2.538 C 5.664 1.3560001 4.842 0.90000004 3.372 0.90000004 Z M 2.226 5.0160003 L 2.226 7.86 L 3.372 7.86 C 4.692 7.86 5.184 7.3980002 5.184 6.618 C 5.184 5.616 4.512 5.0160003 3.318 5.0160003 Z "/>
+        </symbol>
+        <symbol id="g7DB1277550BAB30DF553409D3683E021" overflow="visible">
+            <path d="M 17.936 22.544 L 17.936 25.184002 C 16.736 25.536001 15.488001 25.696001 14.192 25.696001 C 9.616 25.696001 6.8480005 23.712002 6.8480005 18.016 L 6.8480005 16.432001 L 1.5680001 16.432001 L 1.5680001 13.984 L 6.8480005 13.984 L 6.8480005 2.4480002 L 2.496 2.4480002 L 2.496 0 L 15.696001 0 L 15.696001 2.4480002 L 9.872001 2.4480002 L 9.872001 13.984 L 17.344002 13.984 L 17.344002 16.432001 L 9.872001 16.432001 L 9.872001 18.288 C 9.872001 22.240002 11.488001 23.008001 14.272 23.008001 C 15.6 23.008001 16.704 22.832 17.936 22.544 Z "/>
+        </symbol>
+        <symbol id="g2198EDA9CC91EA7E6BF4C4697C680A86" overflow="visible">
+            <path d="M 18.288 11.696 C 18.288 20 15.104001 23.76 9.92 23.76 C 4.736 23.76 1.552 20 1.552 11.696 C 1.552 3.5200002 4.736 -0.384 9.92 -0.384 C 15.104001 -0.384 18.288 3.5200002 18.288 11.696 Z M 4.8320003 11.696 C 4.8320003 18.576 6.656 20.992 9.92 20.992 C 13.200001 20.992 15.008 18.576 15.008 11.696 C 15.008 4.8160005 13.200001 2.384 9.92 2.384 C 6.656 2.384 4.8320003 4.8160005 4.8320003 11.696 Z M 8.144 11.648001 C 8.144 13.232 8.784 14.128 9.92 14.128 C 11.0720005 14.128 11.712001 13.232 11.712001 11.648001 C 11.712001 10.096001 11.0720005 9.168 9.92 9.168 C 8.784 9.168 8.144 10.096001 8.144 11.648001 Z "/>
+        </symbol>
+        <symbol id="g844F4776ECCF7EE211B9194B95E29D05" overflow="visible">
+            <path d="M 5.16 0 L 6.414 0 L 6.414 8.76 L 5.412 8.76 L 5.412 2.01 L 5.34 2.01 L 2.28 8.76 L 1.026 8.76 L 1.026 0 L 2.028 0 L 2.028 6.8580003 L 2.1 6.8580003 Z "/>
+        </symbol>
+        <symbol id="g96A0F72D3E59D3BDC1B22C35B4F661CA" overflow="visible">
+            <path d="M 4.236 0 L 4.236 4.872 C 4.434 5.136 4.692 5.34 5.01 5.34 C 5.256 5.34 5.502 5.2200003 5.502 4.776 L 5.502 0 L 6.54 0 L 6.54 5.184 C 6.54 5.94 6.156 6.3 5.55 6.3 C 4.932 6.3 4.5 5.916 4.26 5.388 L 4.224 5.388 C 4.164 6.006 3.798 6.3 3.246 6.3 C 2.628 6.3 2.19 5.916 1.944 5.388 L 1.854 5.388 L 1.77 6.162 L 0.906 6.162 L 0.906 0 L 1.938 0 L 1.938 4.872 C 2.136 5.136 2.394 5.34 2.7120001 5.34 C 2.958 5.34 3.204 5.2200003 3.204 4.776 L 3.204 0 Z "/>
+        </symbol>
+        <symbol id="g525FC3D89C10E23229BAFB7848F5A706" overflow="visible">
+            <path d="M 0.966 0 L 5.406 0 L 5.406 0.912 L 3.756 0.912 L 3.756 6.156 L 3.612 6.3 L 0.966 6.162 L 0.966 5.262 L 2.622 5.262 L 2.622 0.912 L 0.966 0.912 Z M 2.136 8.466 C 2.136 7.986 2.478 7.692 2.97 7.692 C 3.4620001 7.692 3.8040001 7.986 3.8040001 8.466 C 3.8040001 8.946 3.4620001 9.234 2.97 9.234 C 2.478 9.234 2.136 8.946 2.136 8.466 Z "/>
+        </symbol>
+        <symbol id="gACD82513AD65BE573DC8BC3FE210A062" overflow="visible">
+            <path d="M 3.75 0 L 3.744 4.68 C 3.996 5.076 4.35 5.346 4.788 5.346 C 5.136 5.346 5.472 5.184 5.472 4.572 L 5.472 0 L 6.54 0 L 6.528 4.938 C 6.528 5.868 6.048 6.3 5.304 6.3 C 4.584 6.3 4.062 5.874 3.7680001 5.274 L 3.72 5.274 C 3.612 5.9700003 3.168 6.3 2.52 6.3 C 1.8000001 6.3 1.272 5.874 0.972 5.274 L 0.876 5.274 L 0.786 6.162 L -0.102 6.162 L -0.102 0 L 0.96000004 0 L 0.96000004 4.668 C 1.212 5.07 1.5600001 5.346 2.004 5.346 C 2.352 5.346 2.682 5.184 2.682 4.572 L 2.682 0 Z "/>
+        </symbol>
+        <symbol id="g75A3E5AD3B2A3EBB98D068ED0BA3DFF6" overflow="visible">
+            <path d="M 3.9060001 4.476 L 3.9060001 3.522 L 5.676 3.522 L 5.676 3.204 C 5.676 1.506 4.992 0.876 3.924 0.876 C 2.628 0.876 1.848 1.668 1.842 4.362 C 1.842 6.9960003 2.64 7.866 3.882 7.866 C 4.794 7.866 5.46 7.3980002 5.6280003 6.03 L 6.738 6.138 C 6.552 8.034 5.388 8.898 3.882 8.898 C 1.908 8.898 0.63 7.578 0.63 4.374 C 0.63 1.176 1.914 -0.144 3.888 -0.144 C 5.496 -0.144 6.78 0.84000003 6.78 3.288 L 6.78 4.476 Z "/>
+        </symbol>
+        <symbol id="g4E963E132D7A8C6068888D83BCD39EED" overflow="visible">
+            <path d="M 0.54 6.162 L 3.288 -0.102 L 3.192 -0.366 C 2.976 -0.912 2.526 -1.464 1.494 -1.464 C 1.218 -1.464 0.978 -1.428 0.744 -1.368 L 0.744 -2.382 C 0.96000004 -2.43 1.188 -2.466 1.47 -2.466 C 3.144 -2.466 3.9420002 -1.362 4.512 0.096 L 6.894 6.162 L 5.748 6.162 L 3.93 1.344 L 3.846 1.344 L 1.764 6.162 Z "/>
+        </symbol>
+        <symbol id="g659C60629150CD8E53BA42C64A9FB684" overflow="visible">
+            <path d="M 9.312 23.744001 C 5.328 23.744001 2.1920002 21.968 2.0640001 17.392 L 5.0400004 17.12 C 5.36 20.064001 6.88 21.168001 9.440001 21.168001 C 12.096001 21.168001 13.584001 19.984001 13.584001 17.376001 C 13.584001 14.064001 11.2960005 12.784 8.704 11.2960005 C 4.368 8.848001 2.0640001 6.352 2.0640001 2.624 L 2.0640001 0 L 17.52 0 L 17.52 2.624 L 5.0400004 2.624 C 5.136 5.3760004 6.5600004 6.7840004 10.224001 8.864 C 13.152 10.56 16.704 12.320001 16.704 17.408 C 16.704 21.808 13.744 23.744001 9.312 23.744001 Z "/>
+        </symbol>
+        <symbol id="gFB50D481D75E7C5D9FA5FC42168706AC" overflow="visible">
+            <path d="M 15.424001 0 L 15.424001 6.352 L 18.064001 6.352 L 18.064001 8.976001 L 15.424001 8.976001 L 15.424001 23.36 L 12.224001 23.36 L 1.6 8.976001 L 1.6 6.352 L 12.384001 6.352 L 12.384001 0 Z M 4.7200003 8.864 L 12.384001 19.296001 L 12.384001 8.864 Z "/>
+        </symbol>
+        <symbol id="gEEAD7E5BB355D1B5B323E6A95F25F513" overflow="visible">
+            <path d="M 3.8560002 23.36 L 2.4160001 10.992001 L 5.104 10.512 C 6.1920004 11.68 7.7760005 12.672001 9.8880005 12.672001 C 12.624001 12.672001 14.448001 10.896001 14.448001 7.4240003 C 14.448001 3.7440002 12.592001 2.24 9.632001 2.24 C 6.8960004 2.24 5.248 3.6480002 4.9760003 6.7520003 L 1.9360001 6.4800005 C 2.048 2.288 4.5600004 -0.36800003 9.552 -0.36800003 C 14.880001 -0.36800003 17.6 2.528 17.6 7.4400005 C 17.6 12.192 14.928 14.848001 10.544001 14.848001 C 8.368 14.848001 6.7360005 14.176001 5.4240003 13.248001 L 6.32 20.736 L 16.336 20.736 L 16.336 23.36 Z "/>
+        </symbol>
+        <symbol id="g39181ED2002EEACC4208270A120C5399" overflow="visible">
+            <path d="M 9.968 -0.56 C 10.224001 -0.56 10.464001 -0.528 10.72 -0.48000002 C 10.208 -2.368 8.736 -4.096 6.6400003 -5.8240004 L 8.160001 -7.0880003 C 10.784 -5.0880003 13.184001 -2.0960002 13.184001 1.3280001 C 13.184001 4 11.712001 5.2000003 9.904 5.2000003 C 8.240001 5.2000003 6.9280005 4.1600003 6.9280005 2.3360002 C 6.9280005 0.56 8.192 -0.56 9.968 -0.56 Z "/>
+        </symbol>
+        <symbol id="g821516ABD8246B9C965C9A57C83F56AC" overflow="visible">
+            <path d="M 10.416 11.936001 L 10.416 9.392 L 15.136001 9.392 L 15.136001 8.544001 C 15.136001 4.0160003 13.312 2.3360002 10.464001 2.3360002 C 7.0080004 2.3360002 4.9280005 4.4480004 4.912 11.632001 C 4.912 18.656 7.0400004 20.976002 10.352 20.976002 C 12.784 20.976002 14.56 19.728 15.008 16.08 L 17.968 16.368 C 17.472 21.424002 14.368001 23.728 10.352 23.728 C 5.0880003 23.728 1.6800001 20.208 1.6800001 11.6640005 C 1.6800001 3.1360002 5.104 -0.384 10.368 -0.384 C 14.656001 -0.384 18.08 2.24 18.08 8.768001 L 18.08 11.936001 Z "/>
+        </symbol>
+        <symbol id="g45C7F33EFE145CC946B8EE638E7D9B36" overflow="visible">
+            <path d="M 2.5760002 0 L 17.264 0 L 17.264 2.4480002 L 11.440001 2.4480002 L 11.440001 16.416 L 11.040001 16.800001 L 2.5760002 16.432001 L 2.5760002 14.032001 L 8.400001 14.032001 L 8.400001 2.4480002 L 2.5760002 2.4480002 Z M 7.0880003 22.640001 C 7.0880003 21.36 8 20.576 9.328 20.576 C 10.64 20.576 11.552001 21.36 11.552001 22.640001 C 11.552001 23.920002 10.64 24.688002 9.328 24.688002 C 8 24.688002 7.0880003 23.920002 7.0880003 22.640001 Z "/>
+        </symbol>
+        <symbol id="g423F914E59A0E9B750F67AFCE31C23C2" overflow="visible">
+            <path d="M 6.0480003 0 L 6.0480003 7.616 L 8.944 7.616 L 15.280001 0 L 18.944 0 L 11.6640005 8.736 L 11.6640005 8.944 L 18.272001 16.432001 L 14.816001 16.432001 L 9.264001 10.064 L 6.0480003 10.064 L 6.0480003 24.480001 L 3.0240002 24.480001 L 3.0240002 0 Z "/>
+        </symbol>
+        <symbol id="g75FCBB32BE751C03D4F724493ADDD52B" overflow="visible">
+            <path d="M 6.0480003 0 L 6.0480003 11.904 C 7.2640004 13.376 8.784 14.336 10.736 14.336 C 12.400001 14.336 13.792001 13.632001 13.792001 10.960001 L 13.792001 0 L 16.816 0 L 16.816 11.76 C 16.816 15.328001 15.008 16.816 12.128 16.816 C 9.408 16.816 7.7120004 15.472001 6.432 14.080001 L 6.0480003 14.080001 L 6.0480003 24.480001 L 3.0240002 24.480001 L 3.0240002 0 Z "/>
+        </symbol>
+        <symbol id="g588363F1E015B732B7E4E1B166C1CC4" overflow="visible">
+            <path d="M 8.848001 9.616 C 8.848001 17.648 12.464001 21.888 16.704 25.632002 L 13.840001 25.632002 C 9.968 22.592001 5.808 18.032001 5.808 9.616 C 5.808 1.1680001 9.968 -3.3600001 13.840001 -6.4 L 16.704 -6.4 C 12.464001 -2.6560001 8.848001 1.5840001 8.848001 9.616 Z "/>
+        </symbol>
+        <symbol id="g985674FBDD98E488476C2F3F86CC5F60" overflow="visible">
+            <path d="M 10.352 23.728 C 5.6480002 23.728 1.792 21.12 1.792 11.84 C 1.792 3.0080001 4.88 -0.36800003 10.016001 -0.36800003 C 15.2960005 -0.36800003 17.824001 2.7680001 17.824001 7.392 C 17.824001 12.160001 15.0720005 14.320001 11.120001 14.320001 C 8.288 14.320001 6.352 13.152 5.0080004 11.872001 L 5.0080004 11.8880005 C 5.0080004 19.424002 7.4400005 21.152 10.2560005 21.152 C 12.72 21.152 14.128 19.904001 14.464001 17.312 L 17.424002 17.584002 C 17.152 22.048 14.064001 23.728 10.352 23.728 Z M 5.072 9.648001 C 6.3840003 10.976001 8.192 12.080001 10.384001 12.080001 C 12.992001 12.080001 14.672001 10.544001 14.672001 7.3440003 C 14.672001 4.0800004 12.816001 2.24 10.016001 2.24 C 7.1040006 2.24 5.4080005 4.176 5.072 9.648001 Z "/>
+        </symbol>
+        <symbol id="gA2F905AAD368F369B3DB13F4E0DA3585" overflow="visible">
+            <path d="M 9.92 -0.56 C 11.568001 -0.56 12.880001 0.528 12.880001 2.3360002 C 12.880001 4.1600003 11.568001 5.2000003 9.92 5.2000003 C 8.288 5.2000003 6.9600005 4.1600003 6.9600005 2.3360002 C 6.9600005 0.528 8.288 -0.56 9.92 -0.56 Z "/>
+        </symbol>
+        <symbol id="g2EA0C6304F716EB2EFD085D59C8E999" overflow="visible">
+            <path d="M 3.2800002 18.864 L 3.2800002 15.808001 C 5.072 15.808001 7.0720005 16.912 8.576 18.544 L 8.576 2.624 L 2.7040002 2.624 L 2.7040002 0 L 17.712 0 L 17.712 2.624 L 11.68 2.624 L 11.68 23.36 L 8.576 23.36 C 7.984 20.912 4.9760003 18.864 3.2800002 18.864 Z "/>
+        </symbol>
+        <symbol id="gAB6139A78BF516A6D519931E7C5DC1BE" overflow="visible">
+            <path d="M 9.92 23.744001 C 5.7920003 23.744001 2.592 21.84 2.592 17.888 C 2.592 15.0720005 4.1920004 13.280001 6.4800005 12.016001 C 4.0800004 10.976001 1.8080001 9.184 1.8080001 5.7760005 C 1.8080001 2.2080002 4.4 -0.4 9.76 -0.4 C 15.2960005 -0.4 18.032001 2.24 18.032001 6.0480003 C 18.032001 9.440001 15.8880005 11.184001 13.344001 12.336 C 15.552001 13.392 17.264 14.912001 17.264 17.856 C 17.264 21.984001 13.952001 23.744001 9.92 23.744001 Z M 4.8960004 6.176 C 4.8960004 8.8 6.6720004 10.2560005 8.4800005 11.120001 C 8.544001 11.088 8.624001 11.0720005 8.688001 11.040001 C 12.848001 9.488001 14.800001 8.608001 14.800001 6.064 C 14.800001 3.5200002 12.976001 2.2240002 9.936001 2.2240002 C 7.0720005 2.2240002 4.8960004 3.3920002 4.8960004 6.176 Z M 5.6320004 17.872002 C 5.6320004 20.048 7.3120003 21.184002 9.824 21.184002 C 12.4800005 21.184002 14.352 19.936 14.352 17.52 C 14.352 15.360001 12.848001 14.112 11.040001 13.216001 C 11.040001 13.216001 11.024 13.232 11.008 13.232 C 7.6000004 14.304001 5.6320004 15.536001 5.6320004 17.872002 Z "/>
+        </symbol>
+        <symbol id="g12CDA51F85ACE2CB7DC1253D23519DED" overflow="visible">
+            <path d="M 5.072 15.376 C 7.248 15.376 8.864 17.008001 8.864 19.584002 C 8.864 22.128 7.248 23.744001 5.072 23.744001 C 2.8960001 23.744001 1.2800001 22.128 1.2800001 19.584002 C 1.2800001 17.008001 2.8960001 15.376 5.072 15.376 Z M 2.5600002 0 L 4.736 0 L 17.28 23.36 L 15.104001 23.36 Z M 3.2480001 19.584002 C 3.2480001 21.296001 4.0160003 22.112001 5.072 22.112001 C 6.144 22.112001 6.8960004 21.296001 6.8960004 19.584002 C 6.8960004 17.856 6.144 17.024 5.072 17.024 C 4.0160003 17.024 3.2480001 17.856 3.2480001 19.584002 Z M 10.976001 3.8240001 C 10.976001 1.264 12.592001 -0.384 14.768001 -0.384 C 16.944 -0.384 18.560001 1.264 18.560001 3.8240001 C 18.560001 6.3680005 16.944 7.984 14.768001 7.984 C 12.592001 7.984 10.976001 6.3680005 10.976001 3.8240001 Z M 12.944 3.8240001 C 12.944 5.5360003 13.712001 6.352 14.768001 6.352 C 15.840001 6.352 16.608002 5.5360003 16.608002 3.8240001 C 16.608002 2.0960002 15.840001 1.248 14.768001 1.248 C 13.712001 1.248 12.944 2.0960002 12.944 3.8240001 Z "/>
+        </symbol>
+        <symbol id="g5754BCB7D82E86427E2C0D7447E62814" overflow="visible">
+            <path d="M 9.568001 23.728 C 5.76 23.728 2.5760002 22.032001 2.4 17.408 L 5.328 17.136002 C 5.6480002 19.968 7.2000003 21.152 9.68 21.152 C 12.336 21.152 13.872001 19.776001 13.872001 17.52 C 13.872001 14.800001 11.584001 13.136001 7.9680004 13.136001 L 7.5680003 13.136001 L 7.5680003 10.672001 L 7.984 10.672001 C 11.440001 10.672001 14.400001 9.504001 14.400001 6.1920004 C 14.400001 3.8400002 12.880001 2.2240002 9.728001 2.2240002 C 6.8960004 2.2240002 5.2640004 3.696 4.9280005 6.7360005 L 1.9360001 6.464 C 2.048 2.128 4.656 -0.384 9.76 -0.384 C 14.976001 -0.384 17.6 2.3200002 17.6 6.1920004 C 17.6 10.144 14.992001 11.52 12.144001 12.048 C 14.736001 12.72 16.928001 14.352 16.928001 17.76 C 16.928001 21.648 14.288001 23.728 9.568001 23.728 Z "/>
+        </symbol>
+        <symbol id="g7EFCF4D849DEB9BD62D69AD03DD518D5" overflow="visible">
+            <path d="M 10.992001 9.616 C 10.992001 1.5840001 7.3760004 -2.6560001 3.1360002 -6.4 L 6.0000005 -6.4 C 9.872001 -3.3600001 14.032001 1.2 14.032001 9.616 C 14.032001 18.064001 9.872001 22.592001 6.0000005 25.632002 L 3.1360002 25.632002 C 7.3760004 21.888 10.992001 17.648 10.992001 9.616 Z "/>
+        </symbol>
+    </defs>
+</svg>
