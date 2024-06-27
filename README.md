@@ -36,11 +36,11 @@ colors are generated with the help of [huetone].
 | ![Kohaku](assets/Kohaku.svg)         | [Kohaku]      | `#CA7A2C` | `oklch(65.29% 0.134 60.34)`  | 172                    |
 | ![Tamako](assets/Tamako.svg)         | [Tamako]      | `#F9BF45` | `oklch(83.66% 0.149 82.28)`  | 221                    |
 | ![Black](./assets/Black.svg)         | Black/[Kachi] | `#08192D` | `oklch(21.09% 0.046 253.82)` | 234                    |
-| ![brBlack](./assets/brBlack.svg)     | brBlack       | `#1B2F45` | `oklch(29.94% 0.048 251.83)` | 236                    |
+| ![brBlack](./assets/brBlack.svg)     | brBlack       | `#24384F` | `oklch(33.44% 0.048 251.83)` | 237                    |
 | ![dimGrey](assets/dimGrey.svg)       | dimGrey       | `#5C7186` | `oklch(53.96% 0.041 248.6)`  | 242                    |
 | ![Grey](assets/Grey.svg)             | Grey          | `#728A9E` | `oklch(62.18% 0.041 243.61)` | 245                    |
 | ![brGrey](assets/brGrey.svg)         | brGrey        | `#83A2B7` | `oklch(69.62% 0.046 237.95)` | 247                    |
-| ![White](assets/White.svg)           | White         | `#D6EAF6` | `oklch(92.61% 0.027 235)`    | 254                    |
+| ![White](assets/White.svg)           | White         | `#CCE0EC` | `oklch(89.59% 0.027 233.98)` | 253                    |
 | ![brWhite](assets/brWhite.svg)       | brWhite       | `#DFF3FF` | `oklch(95.35% 0.027 230.91)` | 255                    |
 
 [Kachi]: https://nipponcolors.com/#kachi
