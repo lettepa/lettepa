@@ -11,6 +11,7 @@ Lettepa is a color theme inspired by [solarized] and [gruvbox].
 - [Color modes](#color-modes)
   - [Dark mode](#dark-mode)
   - [Light mode](#light-mode)
+- [Ports](#ports)
 - [License](#license)
 
 ## Palette
@@ -129,7 +130,7 @@ colors are generated with the help of [huetone].
 
 Lettepa is available for:
 
-...
+- [Vim](https://github.com/lettepa/vim)
 
 ## License
 
