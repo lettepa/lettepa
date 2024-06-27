@@ -121,7 +121,7 @@ colors are generated with the help of [huetone].
 | ![brChigusa](assets/brChigusa.svg)   | brChigusa  | cyan0     | Secondary cyan       |
 | ![brTsutsuji](assets/brTsutsuji.svg) | brTsutsuji | magenta0  | Secondary magenta    |
 | ![Tamako](assets/Tamako.svg)         | [Tamako]   | yellow0   | Secondary yellow     |
-| ![Grey](assets/grey.svg)             | Grey       | ignorable | Ignorable            |
+| ![Grey](assets/Grey.svg)             | Grey       | ignorable | Ignorable            |
 
 </details>
 
