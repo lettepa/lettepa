@@ -133,6 +133,7 @@ Lettepa is available for:
 - [Alacritty](https://github.com/lettepa/Alacritty)
 - [fish](https://github.com/lettepa/fish)
 - [Vim](https://github.com/lettepa/vim)
+- [Windows Terminal](https://github.com/lettepa/windows-terminal)
 
 ## License
 
