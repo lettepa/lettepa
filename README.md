@@ -130,6 +130,8 @@ colors are generated with the help of [huetone].
 
 Lettepa is available for:
 
+- [Alacritty](https://github.com/lettepa/Alacritty)
+- [fish](https://github.com/lettepa/fish)
 - [Vim](https://github.com/lettepa/vim)
 
 ## License
