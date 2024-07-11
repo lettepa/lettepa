@@ -134,6 +134,7 @@ Lettepa is available for:
 - [fish](https://github.com/lettepa/fish)
 - [iTerm2](https://github.com/lettepa/iterm2)
 - [Vim](https://github.com/lettepa/vim)
+- [WezTerm](https://github.com/lettepa/wezterm)
 - [Windows Terminal](https://github.com/lettepa/windows-terminal)
 
 ## License
