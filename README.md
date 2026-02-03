@@ -13,32 +13,32 @@ Lettepa is a color theme inspired by [solarized] and [gruvbox].
 
 ## Palette
 
-All the colors are picked from [nipponcolors].
+All the colors are picked from [color-term.com/traditional-color-of-china].
 
-[nipponcolors]: https://nipponcolors.com
+[color-term.com/traditional-color-of-china]: https://color-term.com/traditional-color-of-china
 
-| Color                                      | Name         | Hex       | OKLCH                         | XTerm number/Hex |
-| ------------------------------------------ | ------------ | --------- | ----------------------------- | ---------------- |
-| ![Kachi](./assets/Kachi.svg)               | Kachi        | `#08192d` | `oklch(21.09% 0.046 253.82)`  | 234/`#1c1c1c`    |
-| ![Kon](./assets/Kon.svg)                   | Kon          | `#0f2540` | `oklch(26.22% 0.0581 254.79)` | 235/`#262626`    |
-| ![Keshizumi](./assets/Keshizumi.svg)       | Keshizumi    | `#434343` | `oklch(38.29% 0 0)`           | 238/`#444444`    |
-| ![Nibi](./assets/Nibi.svg)                 | Nibi         | `#656765` | `oklch(51.14% 0.004 145.52)`  | 241/`#626262`    |
-| ![Hai](./assets/Hai.svg)                   | Hai          | `#828282` | `oklch(60.66% 0 0)`           | 244/`#808080`    |
-| ![Ginnezumi](./assets/Ginnezumi.svg)       | Ginnezumi    | `#91989f` | `oklch(67.62% 0.0131 248.02)` | 246/`#949494`    |
-| ![Shironezumi](./assets/Shironezumi.svg)   | Shironezumi  | `#bdc0ba` | `oklch(80.37% 0.0089 128.58)` | 250/`#bcbcbc`    |
-| ![Shironeri](./assets/Shironeri.svg)       | Shironeri    | `#fcfaf2` | `oklch(98.44% 0.0108 95.16)`  | 231/`#ffffff`    |
-| ![Nakabeni](./assets/Nakabeni.svg)         | Nakabeni     | `#db4d6d` | `oklch(62.15% 0.1778 10.39)`  | 167/`#d75f5f`    |
-| ![Kurenai](./assets/Kurenai.svg)           | Kurenai      | `#cb1b45` | `oklch(54.41% 0.2046 16.02)`  | 160/`#d70000`    |
-| ![Mizuasagi](./assets/Mizuasagi.svg)       | Mizuasagi    | `#66bab7` | `oklch(73.53% 0.0821 192.5)`  | 73/`#5fafaf`     |
-| ![Seiheki](./assets/Seiheki.svg)           | Seiheki      | `#268785` | `oklch(56.9% 0.0866 192.96)`  | 30/`#008787`     |
-| ![Tsuyukusa](./assets/Tsuyukusa.svg)       | Tsuyukusa    | `#2ea9df` | `oklch(69.33% 0.1296 232.72)` | 38/`#00afd7`     |
-| ![Ruri](./assets/Ruri.svg)                 | Ruri         | `#005caf` | `oklch(47.8% 0.1513 253.85)`  | 25/`#005faf`     |
-| ![Wasurenagusa](./assets/Wasurenagusa.svg) | Wasurenagusa | `#7db9de` | `oklch(75.84% 0.0817 236.41)` | 75/`#5fafff`     |
-| ![Chigusa](./assets/Chigusa.svg)           | Chigusa      | `#3a8fb7` | `oklch(61.57% 0.1007 232.18)` | 32/`#0087d7`     |
-| ![Momo](./assets/Momo.svg)                 | Momo         | `#f596aa` | `oklch(77.6% 0.116 6.5)`      | 211/`#ff87af`    |
-| ![Tsutsuji](./assets/Tsutsuji.svg)         | Tsutsuji     | `#e03c8a` | `oklch(62.12% 0.2095 356.23)` | 198/`#ff0087`    |
-| ![Hanaba](./assets/Hanaba.svg)             | Hanaba       | `#f7c242` | `oklch(84.01% 0.1507 85.27)`  | 221/`#ffd700`    |
-| ![Chojicha](./assets/Chojicha.svg)         | Chojicha     | `#96632e` | `oklch(54.41% 0.0952 64.33)`  | 94/`#875f00`     |
+| Color                                            | Name            | Hex       | OKLCH                            | XTerm number | Xterm hex |
+| ------------------------------------------------ | --------------- | --------- | -------------------------------- | ------------ | --------- |
+| ![Anlan](./assets/Anlan.svg)                     | Anlan           | `#101f30` | `oklch(23.51% 0.0390 252.55deg)` | 234          | `#1c1c1c` |
+| ![Huilan](./assets/Huilan.svg)                   | Huilan          | `#21373d` | `oklch(32.11% 0.0297 216.85deg)` | 236          | `#303030` |
+| ![Waguanhui](./assets/Waguanhui.svg)             | Waguanhui       | `#47484c` | `oklch(40.22% 0.0068 274.82deg)` | 239          | `#4e4e4e` |
+| ![Yuweihui](./assets/Yuweihui.svg)               | Yuweihui        | `#5e616d` | `oklch(49.42% 0.0194 274.52deg)` | 241          | `#626262` |
+| ![Xinghui](./assets/Xinghui.svg)                 | Xinghui         | `#b2bbbe` | `oklch(78.59% 0.0109 219.61deg)` | 250          | `#bcbcbc` |
+| ![Dalishihui](./assets/Dalishihui.svg)           | Dalishihui      | `#c4cbcf` | `oklch(83.79% 0.0095 232.39deg)` | 252          | `#d0d0d0` |
+| ![Zhenzhuhui](./assets/Zhenzhuhui.svg)           | Zhenzhuhui      | `#e4dfd7` | `oklch(90.54% 0.0121 79.78deg)`  | 254          | `#e4e4e4` |
+| ![Hanbaiyu](./assets/Hanbaiyu.svg)               | Hanbaiyu        | `#f8f4ed` | `oklch(96.83% 0.0102 81.80deg)`  | 231          | `#ffffff` |
+| ![Haitanghong](./assets/Haitanghong.svg)         | Haitanghong     | `#f03752` | `oklch(62.97% 0.2184 18.81deg)`  | 167          | `#d75f5f` |
+| ![Fengyehong](./assets/Fengyehong.svg)           | Fengyehong      | `#c21f30` | `oklch(52.62% 0.1950 22.84deg)`  | 160          | `#d70000` |
+| ![Shilü](./assets/Shilv.svg)                     | Shilü           | `#57c3c2` | `oklch(75.44% 0.0988 194.43deg)` | 42           | `#00d787` |
+| ![Meidielü](./assets/Meidielv.svg)               | Meidielü        | `#12aa9c` | `oklch(66.46% 0.1149 184.42deg)` | 36           | `#00af87` |
+| ![Jianshilan](./assets/Jianshilan.svg)           | Jianshilan      | `#66a9c9` | `oklch(70.24% 0.0827 230.18deg)` | 39           | `#00afff` |
+| ![Dianqing](./assets/Dianqing.svg)               | Dianqing        | `#1661ab` | `oklch(48.98% 0.1372 252.82deg)` | 25           | `#005faf` |
+| ![Pubulan](./assets/Pubulan.svg)                 | Pubulan         | `#51c4d3` | `oklch(76.08% 0.1045 207.09deg)` | 75           | `#5fafff` |
+| ![Cuilan](./assets/Cuilan.svg)                   | Cuilan          | `#1e9eb3` | `oklch(64.41% 0.1064 212.12deg)` | 32           | `#0087d7` |
+| ![Fengxianhuahong](./assets/Fengxianhuahong.svg) | Fengxianhuahong | `#ea7293` | `oklch(70.08% 0.1513 4.41deg)`   | 211          | `#ff87af` |
+| ![Zijinghong](./assets/Zijinghong.svg)           | Zijinghong      | `#ee2c79` | `oklch(62.77% 0.2292 3.78deg)`   | 198          | `#ff0087` |
+| ![Mihuang](./assets/Mihuang.svg)                 | Mihuang         | `#fbb957` | `oklch(82.90% 0.1366 74.55deg)`  | 215          | `#ffaf5f` |
+| ![Canghuang](./assets/Canghuang.svg)             | Canghuang       | `#806332` | `oklch(51.82% 0.0761 78.90deg)`  | 94           | `#875f00` |
 
 ## Ports
 

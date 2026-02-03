@@ -11,7 +11,7 @@ TYPST_TEMPLATE_STRING = "\n".join(
 
 
 def convert_oklch_css2typst(css_oklch):
-    return css_oklch.replace(" ", ",").replace(")", "deg)")
+    return css_oklch.replace(" ", ",")
 
 
 def typst_compile(typst_oklch, output_filename):
@@ -42,7 +42,8 @@ def main():
         for row in reader:
             css_oklch = row["oklch"]
             typst_oklch = convert_oklch_css2typst(css_oklch)
-            output_filename = output_dir / f"{row['name']}.svg"
+            name = row["name"].replace("ü", "v")
+            output_filename = output_dir / f"{name}.svg"
             print(f"Generating {output_filename}")
             typst_compile(typst_oklch, output_filename)
 
