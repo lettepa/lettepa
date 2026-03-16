@@ -20,7 +20,7 @@ All the colors are picked from [color-term.com/traditional-color-of-china].
 | Color                                            | Name            | Hex       | OKLCH                            | XTerm number | Xterm hex |
 | ------------------------------------------------ | --------------- | --------- | -------------------------------- | ------------ | --------- |
 | ![Anlan](./assets/Anlan.svg)                     | Anlan           | `#101f30` | `oklch(23.51% 0.0390 252.55deg)` | 234          | `#1c1c1c` |
-| ![Huilan](./assets/Huilan.svg)                   | Huilan          | `#21373d` | `oklch(32.11% 0.0297 216.85deg)` | 236          | `#303030` |
+| ![Qinghui](./assets/Qinghui.svg)                 | Qinghui         | `#2b333e` | `oklch(31.82% 0.0226 256.40deg)` | 236          | `#303030` |
 | ![Waguanhui](./assets/Waguanhui.svg)             | Waguanhui       | `#47484c` | `oklch(40.22% 0.0068 274.82deg)` | 239          | `#4e4e4e` |
 | ![Yuweihui](./assets/Yuweihui.svg)               | Yuweihui        | `#5e616d` | `oklch(49.42% 0.0194 274.52deg)` | 241          | `#626262` |
 | ![Xinghui](./assets/Xinghui.svg)                 | Xinghui         | `#b2bbbe` | `oklch(78.59% 0.0109 219.61deg)` | 250          | `#bcbcbc` |
